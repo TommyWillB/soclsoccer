@@ -1,0 +1,202 @@
+[
+  {
+    "Game_Date": "Sat 9/26",
+    "Game_Number": 14350,
+    "Game_Time": "1:00 PM",
+    "Game_Field": "Steen Sports Park 3",
+    "Home_Team": "BUSC Strikers",
+    "Home_Score": 6,
+    "Visiting_Team": "UUSC 08G",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sat 9/26",
+    "Game_Number": 15495,
+    "Game_Time": "3:30 PM",
+    "Game_Field": "US Cellular 13",
+    "Home_Team": "RVT 08G Red",
+    "Home_Score": 9,
+    "Visiting_Team": "ASC Blue Storm 08G",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sat 10/3",
+    "Game_Number": 13437,
+    "Game_Time": "2:00 PM",
+    "Game_Field": "DBSC 4",
+    "Home_Team": "OFA 08G Black",
+    "Home_Score": 0,
+    "Visiting_Team": "UUSC 08G",
+    "Visiting_Score": 1
+  },
+  {
+    "Game_Date": "Sun 10/4",
+    "Game_Number": 10220,
+    "Game_Time": "1:30 PM",
+    "Game_Field": "North Mountain Park 1",
+    "Home_Team": "ASC Blue Storm 08G",
+    "Home_Score": 0,
+    "Visiting_Team": "BUSC Strikers",
+    "Visiting_Score": 6
+  },
+  {
+    "Game_Date": "Sun 10/11",
+    "Game_Number": 10230,
+    "Game_Time": "1:15 PM",
+    "Game_Field": "North Mountain Park 1",
+    "Home_Team": "ASC Blue Storm 08G",
+    "Home_Score": 4,
+    "Visiting_Team": "OFA 08G Black",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sun 10/11",
+    "Game_Number": 17137,
+    "Game_Time": "4:00 PM",
+    "Game_Field": "Fir Grove 5",
+    "Home_Team": "UUSC 08G",
+    "Home_Score": 0,
+    "Visiting_Team": "BUSC Strikers",
+    "Visiting_Score": 2
+  },
+  {
+    "Game_Date": "Sat 10/17",
+    "Game_Number": 15542,
+    "Game_Time": "1:30 PM",
+    "Game_Field": "US Cellular 13",
+    "Home_Team": "RVT 08G Red",
+    "Home_Score": 8,
+    "Visiting_Team": "OFA 08G Black",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sat 10/17",
+    "Game_Number": 17142,
+    "Game_Time": "3:00 PM",
+    "Game_Field": "Fir Grove 5",
+    "Home_Team": "UUSC 08G",
+    "Home_Score": 0,
+    "Visiting_Team": "ASC Blue Storm 08G",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sun 10/18",
+    "Game_Number": 14375,
+    "Game_Time": "1:00 PM",
+    "Game_Field": "Steen Sports Park 3",
+    "Home_Team": "BUSC Strikers",
+    "Home_Score": 2,
+    "Visiting_Team": "RVT 08G Red",
+    "Visiting_Score": 3
+  },
+  {
+    "Game_Date": "Sat 10/24",
+    "Game_Number": 13463,
+    "Game_Time": "12:00 PM",
+    "Game_Field": "DBSC 4",
+    "Home_Team": "OFA 08G Black",
+    "Home_Score": 0,
+    "Visiting_Team": "BUSC Strikers",
+    "Visiting_Score": 11
+  },
+  {
+    "Game_Date": "Sat 10/24",
+    "Game_Number": 10241,
+    "Game_Time": "1:00 PM",
+    "Game_Field": "North Mountain Park 1",
+    "Home_Team": "ASC Blue Storm 08G",
+    "Home_Score": 1,
+    "Visiting_Team": "RVT 08G Red",
+    "Visiting_Score": 4
+  },
+  {
+    "Game_Date": "Sun 10/25",
+    "Game_Number": 15568,
+    "Game_Time": "11:00 AM",
+    "Game_Field": "US Cellular 13",
+    "Home_Team": "RVT 08G Red",
+    "Home_Score": 5,
+    "Visiting_Team": "UUSC 08G",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sat 10/31",
+    "Game_Number": 13471,
+    "Game_Time": "9:00 AM",
+    "Game_Field": "DBSC 3",
+    "Home_Team": "OFA 08G Black",
+    "Home_Score": 0,
+    "Visiting_Team": "RVT 08G Red",
+    "Visiting_Score": 8
+  },
+  {
+    "Game_Date": "Sat 10/31",
+    "Game_Number": 14384,
+    "Game_Time": "12:00 PM",
+    "Game_Field": "Steen Sports Park 5",
+    "Home_Team": "BUSC Strikers",
+    "Home_Score": 6,
+    "Visiting_Team": "ASC Blue Storm 08G",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sun 11/1",
+    "Game_Number": 17149,
+    "Game_Time": "10:00 AM",
+    "Game_Field": "Fir Grove 5",
+    "Home_Team": "UUSC 08G",
+    "Home_Score": 0,
+    "Visiting_Team": "OFA 08G Black",
+    "Visiting_Score": 2
+  },
+  {
+    "Game_Date": "Sat 11/7",
+    "Game_Number": 17153,
+    "Game_Time": "11:00 AM",
+    "Game_Field": "Fir Grove 4",
+    "Home_Team": "UUSC 08G",
+    "Home_Score": 0,
+    "Visiting_Team": "RVT 08G Red",
+    "Visiting_Score": 1
+  },
+  {
+    "Game_Date": "Sun 11/8",
+    "Game_Number": 15605,
+    "Game_Time": "11:00 AM",
+    "Game_Field": "US Cellular 13",
+    "Home_Team": "RVT 08G Red",
+    "Home_Score": 1,
+    "Visiting_Team": "BUSC Strikers",
+    "Visiting_Score": 0
+  },
+  {
+    "Game_Date": "Sun 11/8",
+    "Game_Number": 13490,
+    "Game_Time": "3:00 PM",
+    "Game_Field": "DBSC 3",
+    "Home_Team": "OFA 08G Black",
+    "Home_Score": 2,
+    "Visiting_Team": "ASC Blue Storm 08G",
+    "Visiting_Score": 1
+  },
+  {
+    "Game_Date": "Sat 11/14",
+    "Game_Number": 14395,
+    "Game_Time": "12:30 PM",
+    "Game_Field": "Steen Sports Park 2",
+    "Home_Team": "BUSC Strikers",
+    "Home_Score": "",
+    "Visiting_Team": "OFA 08G Black",
+    "Visiting_Score": ""
+  },
+  {
+    "Game_Date": "Sun 11/15",
+    "Game_Number": 10265,
+    "Game_Time": "1:00 PM",
+    "Game_Field": "North Mountain Park 1",
+    "Home_Team": "ASC Blue Storm 08G",
+    "Home_Score": 3,
+    "Visiting_Team": "UUSC 08G",
+    "Visiting_Score": 3
+  }
+]
