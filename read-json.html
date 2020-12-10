@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html>
+<title>Read JSON</title>
+
+
+<!--
+<script src="json2.js"></script>
+<script src="cycle.js"></script>
+-->
+
+<script src="https://cdn.jsdelivr.net/npm/jsonata/jsonata.min.js"></script>
+    
+<script>
+
+
+	var gamesJSONDummyobj;
+	var gamesJSONstring;
+	var GitHubGames;
+	
+	var getJSON = function(url, callback) {
+
+		var xhr = new XMLHttpRequest();
+		xhr.open('GET', url, true);
+		xhr.responseType = 'json';
+	
+		xhr.onload = function() {
+	
+			var status = xhr.status;
+		
+			if (status == 200) {
+				callback(null, xhr.response);
+			} else {
+				callback(status);
+			}
+		};
+	
+		xhr.send();
+	};
+
+	getJSON('https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020-Fall-Girls-Cascade-Schedule.json',  function(err, GitHubGames) {
+    
+		if (err != null) {
+			console.error(err);
+		} else {    
+		   // console.log(GitHubGames);
+		
+			// turn obj to string
+			gamesJSONstring = JSON.stringify(GitHubGames, null, 2);
+
+			// dump string to <p id="gameblock">List of GitHubGames</p>
+			// document.getElementById("gameblock").innerHTML = gamesJSONstring;
+
+
+			// Take the obj we made a string and turn is back to an obj
+			// wait! wtf... we can skip both those steps and just use the games obj
+			// var obj = JSON.parse(gamesJSONstring);        
+		
+		
+			gamecount= Object.keys(GitHubGames.Games).length
+		
+			var HTMLlist= gamecount + " GitHubGames:" ;
+		
+				
+			
+			// loop over games array and output HTML Table TR's
+			for (i = 0; i < GitHubGames.Games.length; i++) {
+			  // HTMLlist += "<li>" + (i+1) + ") " + GitHubGames.Games[i].Bracket + " " + GitHubGames.Games[i].Game_Number;
+		  
+		  
+		  
+				var gameTable = document.getElementById("gameTable");
+		  
+				// Create an empty <tr> element and add it to the 1st position of the table:
+				var gameRow = gameTable.insertRow(i+1);
+
+				// Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:
+				var gameCell1 = gameRow.insertCell(0);
+				var gameCell2 = gameRow.insertCell(1);
+				var gameCell3 = gameRow.insertCell(2);
+				var gameCell4 = gameRow.insertCell(3);
+				var gameCell5 = gameRow.insertCell(4);
+				var gameCell6 = gameRow.insertCell(5);
+				var gameCell7 = gameRow.insertCell(6);
+				var gameCell8 = gameRow.insertCell(7);
+				var gameCell9 = gameRow.insertCell(8);
+
+				// Add some text to the new cells:
+				gameCell1.innerHTML = GitHubGames.Games[i].Bracket;
+				gameCell2.innerHTML = GitHubGames.Games[i].Game_Number;
+				gameCell3.innerHTML = GitHubGames.Games[i].Game_Date;
+				gameCell4.innerHTML = GitHubGames.Games[i].Game_Time;
+				gameCell5.innerHTML = GitHubGames.Games[i].Game_Field;
+				gameCell6.innerHTML = GitHubGames.Games[i].Home_Team;
+				gameCell7.innerHTML = GitHubGames.Games[i].Home_Score;
+				gameCell8.innerHTML = GitHubGames.Games[i].Visiting_Team;
+				gameCell9.innerHTML = GitHubGames.Games[i].Visiting_Score;
+		
+			}
+
+		}
+	});
+
+
+	var gameList;
+	var gamelistJSONstring;
+	
+	getJSON('https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020-Fall-Girls-Cascade-Schedule.json',  function(gameErr, gameList) {
+		
+		if (gameErr != null) {
+			console.error(gameErr);
+		} else {    
+		   console.log(gameList);
+	   
+	   
+			// turn Dummy obj to string
+			gamelistJSONstring = JSON.stringify(gameList, null, 2);
+			
+			// turn Github JSON obj to string
+			//gamelistJSONstring = JSON.stringify(gameList, null, 2);
+
+			// Take the orb we made a string and turn is back to an obj
+			// wait! wtf... we can skip both those steps and just use the games obj
+			// var obj = JSON.parse(gamelistJSONstring);     
+   
+	   
+			return {gameList, gamelistJSONstring};
+
+
+		}
+	});
+    
+	
+	
+	
+	/*
+		----------------------- Trying to query using dummy JSON -----------------------	
+	*/
+	
+	
+
+	
+	// manufactur a dummy text JSON
+	var gamesJSONDummy = '{ "Games": [' +
+	'  {' +
+	'    "Bracket": "Girls Cascade",' +
+	'    "Game_Date": "Sat 9/26",' +
+	'    "Game_Number": 14350,' +
+	'    "Game_Time": "1:00 PM",' +
+	'    "Game_Field": "Steen Sports Park 3",' +
+	'    "Home_Team": "BUSC Strikers",' +
+	'    "Home_Score": 6,' +
+	'    "Visiting_Team": "UUSC 08G",' +
+	'    "Visiting_Score": 0' +
+	'  },' +	
+	'  {' +
+	'    "Bracket": "Girls Cascade",' +
+	'    "Game_Date": "Sat 10/3",' +
+	'    "Game_Number": 13437,' +
+	'    "Game_Time": "2:00 PM",' +
+	'    "Game_Field": "DBSC 4",' +
+	'    "Home_Team": "OFA 08G Black",' +
+	'    "Home_Score": 6,' +
+	'    "Visiting_Team": "UUSC 08G",' +
+	'    "Visiting_Score": 0' +
+	'  }' +
+	']' +
+	'}' ;
+	
+	var gamesJSONDummyobj = JSON.parse(gamesJSONDummy); 
+	
+	console.error("gamesJSONDummyobj: %o", gamesJSONDummyobj)
+
+
+	function gameQuery() {
+		// var json = JSON.parse(document.getElementById('json').value);
+		
+		/* 
+			Toggle between DUMMY and GITHUB JSON
+		*/
+		
+		// dummy
+		var gamesJSON = gamesJSONDummyobj;
+		// github
+		// var gamesJSON = GitHubGames;
+		
+		
+		// var gameResults = jsonata('"Game_Number, " & Game_Number & Bracket & Home_Team').evaluate(gamesJSON);
+		
+		// get entire Games object not Games.<field>
+		// even better to loop over $[0] to get the most outside array
+		// https://docs.jsonata.org/construction
+		var gameObject = jsonata("$[0]").evaluate(gamesJSON);
+		// $each(Address, function($v, $k) {$k & ": " & $v})
+		// var gameResults = jsonata('$each(Games.Game_Number, function($v, $k) {$k & ": " & $v} & Games.Bracket & Games.Home_Team').evaluate(gamesJSON);
+		// var gameResults = jsonata('"Bracket" & Bracket & Game_Number & Game_Date & Game_Time & Game_Field & Home_Team; & Home_Score & Visiting_Team & Visiting_Score').evaluate(gamesJSON);
+		
+		
+		
+			
+		// ---------  Logging to console ---------		
+		console.error("gamesJSON: %o", gamesJSON)		
+		console.error("gameObject: %o", gameObject)
+		
+		var gameResults = gameObject.Games;
+		console.error("gameResults: %o", gameResults)
+		
+		
+		// loop over games array and output HTML Table TR's
+		for (i = 0; i < gameResults.length; i++) {
+		  // HTMLlist += "<li>" + (i+1) + ") " + games.Games[i].Bracket + " " + games.Games[i].Game_Number;
+	
+		
+			var gameTableTwo = document.getElementById("gameTableTwo");
+	  
+			// Create an empty <tr> element and add it to the 1st position of the table:
+			var gameTwoRow = gameTableTwo.insertRow(i+1);
+
+			// Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:
+			var gameTwoCell1 = gameTwoRow.insertCell(0);
+			var gameTwoCell2 = gameTwoRow.insertCell(1);
+			var gameTwoCell3 = gameTwoRow.insertCell(2);
+			var gameTwoCell4 = gameTwoRow.insertCell(3);
+			var gameTwoCell5 = gameTwoRow.insertCell(4);
+			var gameTwoCell6 = gameTwoRow.insertCell(5);
+			var gameTwoCell7 = gameTwoRow.insertCell(6);
+			var gameTwoCell8 = gameTwoRow.insertCell(7);
+			var gameTwoCell9 = gameTwoRow.insertCell(8);
+
+			// Add some text to the new cells: gameResults.Games[i]
+			/*
+			gameTwoCell1.innerHTML = gameResults.Games[i].Bracket;
+			gameTwoCell2.innerHTML = gameResults.Games[i].Game_Number;
+			gameTwoCell3.innerHTML = gameResults.Games[i].Game_Date;
+			gameTwoCell4.innerHTML = gameResults.Games[i].Game_Time;
+			gameTwoCell5.innerHTML = gameResults.Games[i].Game_Field;
+			gameTwoCell6.innerHTML = gameResults.Games[i].Home_Team;
+			gameTwoCell7.innerHTML = gameResults.Games[i].Home_Score;
+			gameTwoCell8.innerHTML = gameResults.Games[i].Visiting_Team;
+			gameTwoCell9.innerHTML = gameResults.Games[i].Visiting_Score;
+			*/
+			
+			
+
+			// Add some text to the new cells: gameResults[i]
+			gameTwoCell1.innerHTML = gameResults[i].Bracket;
+			gameTwoCell2.innerHTML = gameResults[i].Game_Number;
+			gameTwoCell3.innerHTML = gameResults[i].Game_Date;
+			gameTwoCell4.innerHTML = gameResults[i].Game_Time;
+			gameTwoCell5.innerHTML = gameResults[i].Game_Field;
+			gameTwoCell6.innerHTML = gameResults[i].Home_Team;
+			gameTwoCell7.innerHTML = gameResults[i].Home_Score;
+			gameTwoCell8.innerHTML = gameResults[i].Visiting_Team;
+			gameTwoCell9.innerHTML = gameResults[i].Visiting_Score;
+	
+		}
+			
+			
+	}
+	
+	
+	function greeting() {
+        var json = JSON.parse(document.getElementById('greetingsJSON').value);
+        var result = jsonata('"Hello, " & name').evaluate(json);
+        document.getElementById('greeting').innerHTML = result;
+      }
+      
+      
+</script>
+        
+
+    
+</head>
+
+<body>
+    <h1>Read JSON list of Games</h1>
+    
+    Query syntax should work just like it does here:
+    <a href="https://try.jsonata.org/I6GYSxu1E" title="https://try.jsonata.org/I6GYSxu1E">https://try.jsonata.org/I6GYSxu1E</a>
+    
+    <!-- <p id="gameblock">List of games</p>-->
+    
+	<!-- <textarea id="json" cols="100" rows="20">{ "name": "Wilbur" }</textarea>-->
+	
+	
+	<!-- Query syntax at: https://try.jsonata.org/I6GYSxu1E -->
+	<!-- (Games[Bracket = "Girls Cascade"];Games[Home_Team ~> /Blue/i]) -->
+	
+	<!-- <textarea id="queryJSON" cols="100" rows="20">{ "Game_Number": "14350" }</textarea> -->
+	<!-- <textarea id="queryJSON" cols="100" rows="20">(Games[Bracket = "Girls Cascade"];Games[Home_Team ~> /Blue/i])</textarea> -->
+	<!-- <textarea id="queryJSON" cols="100" rows="20">{Games[Game_Number = "13437"] }</textarea> -->
+	<br />
+	<br />
+	<textarea id="queryJSON" cols="100" rows="3">Games[Game_Number ~> /13437/i]</textarea>
+	
+
+	
+	
+	
+	<p><button onclick="gameQuery()">Execute query</button></p>
+	
+		
+	
+
+
+
+
+    <h2>Filtered JSON (Dummy) Game List </h2>
+    
+<small><pre>
+{ "Games": [ 
+	  { 
+	    "Bracket": "Girls Cascade", 
+	    "Game_Date": "Sat 9/26", 
+	    "Game_Number": 14350, 
+	    "Game_Time": "1:00 PM", 
+	    "Game_Field": "Steen Sports Park 3", 
+	    "Home_Team": "BUSC Strikers", 
+	    "Home_Score": 6, 
+	    "Visiting_Team": "UUSC 08G", 
+	    "Visiting_Score": 0 
+	  }, 	
+	  { 
+	    "Bracket": "Girls Cascade", 
+	    "Game_Date": "Sat 10/3", 
+	    "Game_Number": 13437, 
+	    "Game_Time": "2:00 PM", 
+	    "Game_Field": "DBSC 4", 
+	    "Home_Team": "OFA 08G Black", 
+	    "Home_Score": 6, 
+	    "Visiting_Team": "UUSC 08G", 
+	    "Visiting_Score": 0 
+	  } 
+	] 
+} 
+</pre></small>
+
+	<table border="1" id="gameTableTwo">
+		<tr>
+			<th>Bracket</th>
+			<th>Game_Number</th>
+			<th>Game_Date</th>
+			<th>Game_Time</th>
+			<th>Game_Field</th>
+			<th>Home_Team</th>
+			<th>Home_Score</th>
+			<th>Visiting_Team</th>
+			<th>Visiting_Score</th>
+		</tr>
+	</table>
+
+
+    
+
+    <br />
+    <br />
+    <h2>Full JSON Game List</h2>
+    (<a href="https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020-Fall-Girls-Cascade-Schedule.json" target="github">https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020-Fall-Girls-Cascade-Schedule.json</a>)
+	<table border="1" id="gameTable">
+		<tr>
+			<th>Bracket</th>
+			<th>Game_Number</th>
+			<th>Game_Date</th>
+			<th>Game_Time</th>
+			<th>Game_Field</th>
+			<th>Home_Team</th>
+			<th>Home_Score</th>
+			<th>Visiting_Team</th>
+			<th>Visiting_Score</th>
+		</tr>
+	</table>
+	
+	
+		
+	
+	<!--
+	
+	<textarea id="greetingsJSON" cols="100" rows="20">{ "name": "Wilbur" },{ "name": "Marc" },{ "name": "Jane" }</textarea>
+	
+	<p><button onclick="greeting()">Execute query</button></p>
+	
+	
+	<p id="greeting">greeting</p>
+	
+	-->
+
+    
+</body>
+</html>
