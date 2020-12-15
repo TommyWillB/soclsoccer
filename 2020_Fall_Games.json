@@ -8,7 +8,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09B Blue",
 			"visitingteam": "RVT 10B White",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -18,7 +18,7 @@
 			"gamefield": "DBSC 3B",
 			"hometeam": "OFA 09G Blue",
 			"visitingteam": "RVT 10G White",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -28,7 +28,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B RR",
 			"visitingteam": "RVT 05/06B White",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -38,7 +38,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC Thunder",
 			"visitingteam": "RVT 09B Red",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -48,7 +48,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Kaos Rebels",
 			"visitingteam": "OFA 08B Black",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -58,7 +58,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT 07B Red",
 			"visitingteam": "ASC U14B",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -68,7 +68,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT U19G",
 			"visitingteam": "NSS Mavericks",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -78,7 +78,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09B Black",
 			"visitingteam": "RVT 09B White",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -88,7 +88,7 @@
 			"gamefield": "DBSC 3B",
 			"hometeam": "OFA 09G Black",
 			"visitingteam": "RVT 09G Red",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -98,7 +98,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02G GP",
 			"visitingteam": "BUSC White",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -108,7 +108,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 08B",
 			"visitingteam": "RVT 08B White",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -118,7 +118,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC TNT",
 			"visitingteam": "RVT 10G Red",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -128,7 +128,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Strikers",
 			"visitingteam": "UUSC 08G",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -138,7 +138,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Green",
 			"visitingteam": "UUSC HSG Black",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -148,7 +148,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Missfits10",
 			"visitingteam": "UUSC 11G",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -158,7 +158,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 07G Red",
 			"visitingteam": "ASC Avalanche",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -168,7 +168,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSB Green",
 			"visitingteam": "OFA 03B GP",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -178,7 +178,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 05/06B",
 			"visitingteam": "NSS Kaos",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -188,7 +188,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U13B",
 			"visitingteam": "NSS Kaos Rebels",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -198,7 +198,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Spartans",
 			"visitingteam": "BUSC Inter Malin",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -208,7 +208,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08G Red",
 			"visitingteam": "ASC Blue Storm 08G",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -218,7 +218,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Green",
 			"visitingteam": "UUSC HSG Green",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -228,7 +228,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT G Primerano",
 			"visitingteam": "NSS Mavericks",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -238,7 +238,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Missfits10",
 			"visitingteam": "UUSC 10G",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -248,7 +248,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Kaos",
 			"visitingteam": "BUSC Billy Goats 1",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -258,7 +258,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G Red",
 			"visitingteam": "ASC 09G",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -268,7 +268,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B Red",
 			"visitingteam": "SOSA Barcelona",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -278,7 +278,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10B",
 			"visitingteam": "RVT 10B Red",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -288,7 +288,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 07G",
 			"visitingteam": "SOSA Blackout",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -298,7 +298,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G White",
 			"visitingteam": "ASC Dynamite",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -308,7 +308,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B White",
 			"visitingteam": "BUSC Venom",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -318,7 +318,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02G HV",
 			"visitingteam": "BUSC Green",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -328,7 +328,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U13B",
 			"visitingteam": "RVT 07B White",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -338,7 +338,7 @@
 			"gamefield": "Reinhart 1A",
 			"hometeam": "OFA 10B Blue",
 			"visitingteam": "ASC 10B Comp",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -348,7 +348,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Inter Malin",
 			"visitingteam": "OFA 05B GP",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -358,7 +358,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSB Black",
 			"visitingteam": "RVT 03B Red",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -368,7 +368,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B White",
 			"visitingteam": "ASC 10B Avengers",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -378,7 +378,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT B Stewart",
 			"visitingteam": "OFA 02B GP",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -388,7 +388,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07G Black",
 			"visitingteam": "RVT 07G Red",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -398,7 +398,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B NV",
 			"visitingteam": "UUSC HSB Green",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -408,7 +408,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Real Barca",
 			"visitingteam": "BUSC Spartans",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -418,7 +418,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B White",
 			"visitingteam": "BUSC U12B",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -428,7 +428,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B White",
 			"visitingteam": "OFA 02B HV",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -438,7 +438,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07B Black",
 			"visitingteam": "RVT 07B Red",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -448,7 +448,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 04G GP",
 			"visitingteam": "RVT G Maukonen",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -458,7 +458,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 10B Blue",
 			"visitingteam": "RVT 10B Red",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -468,7 +468,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Avalanche",
 			"visitingteam": "NSS Missfits Xtreme",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -478,7 +478,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "NSS Missfits 09",
 			"visitingteam": "OFA 09G Black",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -488,7 +488,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT G Primerano",
 			"visitingteam": "AC United Freedom",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -498,7 +498,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Kaos Arsenal 07B",
 			"visitingteam": "RVT 07B Red",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -508,7 +508,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09B Blue",
 			"visitingteam": "BUSC U12B",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -518,7 +518,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02G HV",
 			"visitingteam": "NSS Shockers",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -528,7 +528,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10B",
 			"visitingteam": "RVT 10B White",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -538,7 +538,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Comp",
 			"visitingteam": "NSS Kaos 10",
-			"undefined": "12:45 PM"
+			"gametimestring": "12:45 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -548,7 +548,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Real Barca",
 			"visitingteam": "NSS Kaos Titans",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -558,7 +558,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Barcelona",
 			"visitingteam": "RVT 08B White",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -568,7 +568,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B Red",
 			"visitingteam": "OFA 09B Black",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -578,7 +578,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08G Red",
 			"visitingteam": "OFA 07G Black",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -588,7 +588,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09G Blue",
 			"visitingteam": "RVT 10G Red",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -598,7 +598,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 08G Black",
 			"visitingteam": "UUSC 08G",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -608,7 +608,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "NSS Missfits 09",
 			"visitingteam": "ASC 09G",
-			"undefined": "2:30 PM"
+			"gametimestring": "2:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -618,7 +618,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "AC United Freedom",
 			"visitingteam": "RVT U19G",
-			"undefined": "2:30 PM"
+			"gametimestring": "2:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -628,7 +628,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Inter Malin",
 			"visitingteam": "OFA 02B RR",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -638,7 +638,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Blackout",
 			"visitingteam": "NSS Missfits Xtreme",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -648,7 +648,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G Red",
 			"visitingteam": "ASC Dynamite",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -658,7 +658,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07B Blue",
 			"visitingteam": "UUSC 08B",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -668,7 +668,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 04G GP",
 			"visitingteam": "NSS Shockers",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -678,7 +678,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Avengers",
 			"visitingteam": "NSS Kaos 10",
-			"undefined": "4:15 PM"
+			"gametimestring": "4:15 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -688,7 +688,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "NSS Kaos Arsenal 07B",
 			"visitingteam": "RVT 08B Red",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -698,7 +698,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "NSS Kaos Titans",
 			"visitingteam": "BUSC Spartans",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -708,7 +708,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B White",
 			"visitingteam": "OFA 10B Blue",
-			"undefined": "9:15 AM"
+			"gametimestring": "9:15 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -718,7 +718,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G Red",
 			"visitingteam": "UUSC 10G",
-			"undefined": "11:15 AM"
+			"gametimestring": "11:15 AM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -728,7 +728,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B",
 			"visitingteam": "UUSC HSB Black",
-			"undefined": "11:15 AM"
+			"gametimestring": "11:15 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -738,7 +738,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07B Blue",
 			"visitingteam": "SOSA Barcelona",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -748,7 +748,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSG Black",
 			"visitingteam": "RVT G Maukonen",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -758,7 +758,7 @@
 			"gamefield": "Steen Sports Park 4A",
 			"hometeam": "BUSC U12B",
 			"visitingteam": "RVT 09B Red",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -768,7 +768,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Spartans",
 			"visitingteam": "OFA 02B HV",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -778,7 +778,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G White",
 			"visitingteam": "UUSC 11G",
-			"undefined": "1:15 PM"
+			"gametimestring": "1:15 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -788,7 +788,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT U19G",
 			"visitingteam": "BUSC White",
-			"undefined": "1:15 PM"
+			"gametimestring": "1:15 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -798,7 +798,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Blue Storm 08G",
 			"visitingteam": "BUSC Strikers",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -808,7 +808,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC Thunder",
 			"visitingteam": "RVT 09B White",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -818,7 +818,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 05B GP",
 			"visitingteam": "UUSC HSB Green",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -828,7 +828,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 03B GP",
 			"visitingteam": "OFA 02B NV",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -838,7 +838,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Venom",
 			"visitingteam": "ASC U13B",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -848,7 +848,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Green",
 			"visitingteam": "OFA 02G HV",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -858,7 +858,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT 07G Red",
 			"visitingteam": "UUSC 07G",
-			"undefined": "3:15 PM"
+			"gametimestring": "3:15 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -868,7 +868,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U14B",
 			"visitingteam": "RVT 07B White",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -878,7 +878,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC TNT",
 			"visitingteam": "OFA 09G Blue",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -888,7 +888,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B White",
 			"visitingteam": "BUSC Inter Malin",
-			"undefined": "5:15 PM"
+			"gametimestring": "5:15 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -898,7 +898,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B NV",
 			"visitingteam": "OFA 02B RR",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -908,7 +908,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC 08B",
 			"visitingteam": "OFA 07B Blue",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -918,7 +918,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "NSS Kaos",
 			"visitingteam": "RVT 03B Red",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -928,7 +928,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "ASC Dynamite",
 			"visitingteam": "NSS Missfits 09",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -938,7 +938,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B Red",
 			"visitingteam": "NSS Kaos 10",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -948,7 +948,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09B Blue",
 			"visitingteam": "ASC Thunder",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -958,7 +958,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10B",
 			"visitingteam": "ASC 10B Avengers",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -968,7 +968,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSB Green",
 			"visitingteam": "BUSC Real Barca",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -978,7 +978,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B Red",
 			"visitingteam": "NSS Kaos Rebels",
-			"undefined": "12:30 PM"
+			"gametimestring": "12:30 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -988,7 +988,7 @@
 			"gamefield": "Steen Sports Park 4A",
 			"hometeam": "BUSC U12B",
 			"visitingteam": "OFA 09B Black",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -998,7 +998,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Billy Goats 2",
 			"visitingteam": "RVT 05/06B White",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1008,7 +1008,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "NSS Mavericks",
 			"visitingteam": "RVT U19G",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1018,7 +1018,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Blackout",
 			"visitingteam": "ASC Avalanche",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1028,7 +1028,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G Red",
 			"visitingteam": "NSS Missfits10",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1038,7 +1038,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 07G",
 			"visitingteam": "RVT 08G Red",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -1048,7 +1048,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSG Green",
 			"visitingteam": "OFA 02G HV",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1058,7 +1058,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC White",
 			"visitingteam": "OFA 02G GP",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1068,7 +1068,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Spartans",
 			"visitingteam": "OFA 03B GP",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -1078,7 +1078,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "ASC 09G",
 			"visitingteam": "NSS Missfits 09",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1088,7 +1088,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Kaos 10",
 			"visitingteam": "RVT 10B White",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1098,7 +1098,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 08B White",
 			"visitingteam": "NSS Kaos Rebels",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1108,7 +1108,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Mavericks",
 			"visitingteam": "RVT G Primerano",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1118,7 +1118,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Missfits10",
 			"visitingteam": "RVT 10G White",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1128,7 +1128,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U14B",
 			"visitingteam": "RVT 07B Red",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1138,7 +1138,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 11G",
 			"visitingteam": "OFA 09G Blue",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -1148,7 +1148,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSG Black",
 			"visitingteam": "OFA 04G GP",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1158,7 +1158,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Real Barca",
 			"visitingteam": "RVT 05/06B White",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1168,7 +1168,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B White",
 			"visitingteam": "ASC 10B Comp",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -1178,7 +1178,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 09G White",
 			"visitingteam": "ASC 09G",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1188,7 +1188,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 10B Blue",
 			"visitingteam": "UUSC 10B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -1198,7 +1198,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Blue Storm 08G",
 			"visitingteam": "OFA 08G Black",
-			"undefined": "1:15 PM"
+			"gametimestring": "1:15 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1208,7 +1208,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10G",
 			"visitingteam": "ASC TNT",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1218,7 +1218,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Venom",
 			"visitingteam": "RVT 08B White",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -1228,7 +1228,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G Red",
 			"visitingteam": "OFA 09G Black",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1238,7 +1238,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT G Primerano",
 			"visitingteam": "BUSC White",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1248,7 +1248,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 05B GP",
 			"visitingteam": "OFA 02B HV",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -1258,7 +1258,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC 08G",
 			"visitingteam": "BUSC Strikers",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1268,7 +1268,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Inter Malin",
 			"visitingteam": "BUSC Spartans",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -1278,7 +1278,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B Red",
 			"visitingteam": "OFA 09B Blue",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -1288,7 +1288,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT G Maukonen",
 			"visitingteam": "BUSC Green",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1298,7 +1298,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10G",
 			"visitingteam": "RVT 10G White",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1308,7 +1308,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSB Black",
 			"visitingteam": "BUSC Billy Goats 1",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1318,7 +1318,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07B Black",
 			"visitingteam": "NSS Kaos Arsenal 07B",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1328,7 +1328,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Kaos",
 			"visitingteam": "RVT B Stewart",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1338,7 +1338,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Avengers",
 			"visitingteam": "RVT 10B Red",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -1348,7 +1348,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B Red",
 			"visitingteam": "ASC Thunder",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1358,7 +1358,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Missfits Xtreme",
 			"visitingteam": "SOSA Blackout",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1368,7 +1368,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B HV",
 			"visitingteam": "NSS Kaos Titans",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1378,7 +1378,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10B",
 			"visitingteam": "ASC 10B Comp",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1388,7 +1388,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 08B",
 			"visitingteam": "SOSA Barcelona",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1398,7 +1398,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC 07G",
 			"visitingteam": "ASC Avalanche",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1408,7 +1408,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Inter Malin",
 			"visitingteam": "OFA 02B NV",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -1418,7 +1418,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09B Black",
 			"visitingteam": "RVT 09B White",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1428,7 +1428,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "AC United Freedom",
 			"visitingteam": "RVT G Primerano",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -1438,7 +1438,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC Dynamite",
 			"visitingteam": "RVT 09G White",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1448,7 +1448,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT 08B Red",
 			"visitingteam": "BUSC Venom",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -1458,7 +1458,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08G Red",
 			"visitingteam": "OFA 08G Black",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -1468,7 +1468,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 04G GP",
 			"visitingteam": "UUSC HSG Green",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1478,7 +1478,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 07B White",
 			"visitingteam": "OFA 07B Blue",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1488,7 +1488,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 11G",
 			"visitingteam": "RVT 10G Red",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -1498,7 +1498,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC 08G",
 			"visitingteam": "ASC Blue Storm 08G",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1508,7 +1508,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Spartans",
 			"visitingteam": "BUSC Real Barca",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1518,7 +1518,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Kaos Arsenal 07B",
 			"visitingteam": "ASC U14B",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1528,7 +1528,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "NSS Missfits Xtreme",
 			"visitingteam": "RVT 07G Red",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1538,7 +1538,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B White",
 			"visitingteam": "ASC U13B",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1548,7 +1548,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "NSS Kaos Titans",
 			"visitingteam": "UUSC HSB Green",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1558,7 +1558,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 05/06B",
 			"visitingteam": "NSS Kaos",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1568,7 +1568,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT U19G",
 			"visitingteam": "AC United Freedom",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1578,7 +1578,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 03B Red",
 			"visitingteam": "OFA 02B GP",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1588,7 +1588,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B Red",
 			"visitingteam": "UUSC 10B",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1598,7 +1598,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B",
 			"visitingteam": "BUSC Billy Goats 2",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1608,7 +1608,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Blackout",
 			"visitingteam": "UUSC 07G",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -1618,7 +1618,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09G Blue",
 			"visitingteam": "ASC 09G",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1628,7 +1628,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 07B Black",
 			"visitingteam": "RVT 07B Red",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1638,7 +1638,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSB Green",
 			"visitingteam": "OFA 02B RR",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1648,7 +1648,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Avalanche",
 			"visitingteam": "OFA 07G Black",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -1658,7 +1658,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Strikers",
 			"visitingteam": "RVT 08G Red",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1668,7 +1668,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC White",
 			"visitingteam": "RVT U19G",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -1678,7 +1678,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B White",
 			"visitingteam": "BUSC U12B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1688,7 +1688,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT B Stewart",
 			"visitingteam": "UUSC HSB Black",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -1698,7 +1698,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09G Black",
 			"visitingteam": "ASC Dynamite",
-			"undefined": "2:45 PM"
+			"gametimestring": "2:45 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1708,7 +1708,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 08B Black",
 			"visitingteam": "RVT 08B Red",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -1718,7 +1718,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSG Black",
 			"visitingteam": "OFA 02G HV",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1728,7 +1728,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U13B",
 			"visitingteam": "UUSC 08B",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -1738,7 +1738,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Green",
 			"visitingteam": "RVT G Maukonen",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1748,7 +1748,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G White",
 			"visitingteam": "ASC TNT",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1758,7 +1758,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B White",
 			"visitingteam": "OFA 03B GP",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1768,7 +1768,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 10B Blue",
 			"visitingteam": "RVT 10B White",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1778,7 +1778,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 07B Black",
 			"visitingteam": "RVT 07B White",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1788,7 +1788,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Avalanche",
 			"visitingteam": "RVT 07G Red",
-			"undefined": "9:00 AM"
+			"gametimestring": "9:00 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1798,7 +1798,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09G Black",
 			"visitingteam": "UUSC 11G",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1808,7 +1808,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B RR",
 			"visitingteam": "OFA 05B GP",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1818,7 +1818,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "AC United Freedom",
 			"visitingteam": "OFA 02G GP",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1828,7 +1828,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Barcelona",
 			"visitingteam": "UUSC 08B",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1838,7 +1838,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Avengers",
 			"visitingteam": "RVT 10B White",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -1848,7 +1848,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G Red",
 			"visitingteam": "NSS Missfits 09",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1858,7 +1858,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Kaos Arsenal 07B",
 			"visitingteam": "OFA 07B Black",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -1868,7 +1868,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09B Black",
 			"visitingteam": "RVT 09B Red",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -1878,7 +1878,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 08G Black",
 			"visitingteam": "BUSC Strikers",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -1888,7 +1888,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Blue Storm 08G",
 			"visitingteam": "RVT 08G Red",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1898,7 +1898,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Billy Goats 1",
 			"visitingteam": "RVT 03B Red",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1908,7 +1908,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Inter Malin",
 			"visitingteam": "UUSC HSB Green",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -1918,7 +1918,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Comp",
 			"visitingteam": "RVT 10B Red",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -1928,7 +1928,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G White",
 			"visitingteam": "UUSC 10G",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -1938,7 +1938,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Kaos Rebels",
 			"visitingteam": "RVT 08B Red",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1948,7 +1948,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02B GP",
 			"visitingteam": "RVT 05/06B",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -1958,7 +1958,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 07G Black",
 			"visitingteam": "UUSC 07G",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -1968,7 +1968,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "NSS Shockers",
 			"visitingteam": "UUSC HSG Black",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -1978,7 +1978,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "AC United Freedom",
 			"visitingteam": "BUSC White",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -1988,7 +1988,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Billy Goats 2",
 			"visitingteam": "RVT B Stewart",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -1998,7 +1998,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Real Barca",
 			"visitingteam": "OFA 02B NV",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -2008,7 +2008,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Missfits 09",
 			"visitingteam": "RVT 09G White",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2018,7 +2018,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B White",
 			"visitingteam": "BUSC Spartans",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2028,7 +2028,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 08B Black",
 			"visitingteam": "ASC U13B",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2038,7 +2038,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 07B Red",
 			"visitingteam": "NSS Kaos Arsenal 07B",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2048,7 +2048,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Kaos Rebels",
 			"visitingteam": "BUSC Venom",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2058,7 +2058,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT G Maukonen",
 			"visitingteam": "NSS Shockers",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2068,7 +2068,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B White",
 			"visitingteam": "OFA 07B Blue",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -2078,7 +2078,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 09G",
 			"visitingteam": "RVT 09G Red",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2088,7 +2088,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B Red",
 			"visitingteam": "OFA 09B Blue",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -2098,7 +2098,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08G Red",
 			"visitingteam": "UUSC 08G",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2108,7 +2108,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 03B GP",
 			"visitingteam": "BUSC Inter Malin",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2118,7 +2118,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02G GP",
 			"visitingteam": "RVT U19G",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -2128,7 +2128,7 @@
 			"gamefield": "Steen Sports Park 4A",
 			"hometeam": "BUSC U12B",
 			"visitingteam": "ASC Thunder",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2138,7 +2138,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC White",
 			"visitingteam": "RVT G Primerano",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -2148,7 +2148,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10G",
 			"visitingteam": "RVT 10G Red",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2158,7 +2158,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 08B",
 			"visitingteam": "OFA 08B Black",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2168,7 +2168,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U13B",
 			"visitingteam": "SOSA Barcelona",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -2178,7 +2178,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC TNT",
 			"visitingteam": "RVT 10G White",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2188,7 +2188,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B White",
 			"visitingteam": "UUSC 10B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2198,7 +2198,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 03B Red",
 			"visitingteam": "BUSC Billy Goats 2",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2208,7 +2208,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 05B GP",
 			"visitingteam": "RVT 05/06B White",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2218,7 +2218,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B HV",
 			"visitingteam": "BUSC Real Barca",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2228,7 +2228,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Venom",
 			"visitingteam": "RVT 08B Red",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -2238,7 +2238,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G White",
 			"visitingteam": "OFA 09G Blue",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2248,7 +2248,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B",
 			"visitingteam": "UUSC HSB Black",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2258,7 +2258,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02B GP",
 			"visitingteam": "RVT B Stewart",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2268,7 +2268,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 04G GP",
 			"visitingteam": "BUSC Green",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2278,7 +2278,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT 07B White",
 			"visitingteam": "ASC U14B",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2288,7 +2288,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT G Maukonen",
 			"visitingteam": "UUSC HSG Green",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -2298,7 +2298,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 08G Black",
 			"visitingteam": "RVT 08G Red",
-			"undefined": "9:00 AM"
+			"gametimestring": "9:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2308,7 +2308,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 08B Black",
 			"visitingteam": "RVT 08B White",
-			"undefined": "9:00 AM"
+			"gametimestring": "9:00 AM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -2318,7 +2318,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "NSS Missfits Xtreme",
 			"visitingteam": "UUSC 07G",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2328,7 +2328,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 03B GP",
 			"visitingteam": "NSS Kaos Titans",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -2338,7 +2338,7 @@
 			"gamefield": "Reinhart 1A",
 			"hometeam": "OFA 09G Blue",
 			"visitingteam": "NSS Missfits10",
-			"undefined": "11:15 AM"
+			"gametimestring": "11:15 AM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -2348,7 +2348,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 09G",
 			"visitingteam": "RVT 09G White",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -2358,7 +2358,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B Red",
 			"visitingteam": "BUSC U12B",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2368,7 +2368,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Shockers",
 			"visitingteam": "RVT G Maukonen",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2378,7 +2378,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Barcelona",
 			"visitingteam": "NSS Kaos Rebels",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2388,7 +2388,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSB Green",
 			"visitingteam": "RVT 05/06B White",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -2398,7 +2398,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Strikers",
 			"visitingteam": "ASC Blue Storm 08G",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2408,7 +2408,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02B RR",
 			"visitingteam": "BUSC Inter Malin",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2418,7 +2418,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 07B Blue",
 			"visitingteam": "ASC U13B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2428,7 +2428,7 @@
 			"gamefield": "Reinhart 1A",
 			"hometeam": "NSS Kaos 10",
 			"visitingteam": "OFA 10B Blue",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -2438,7 +2438,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC Thunder",
 			"visitingteam": "OFA 09B Black",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2448,7 +2448,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT 07B Red",
 			"visitingteam": "NSS Kaos Arsenal 07B",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2458,7 +2458,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSB Black",
 			"visitingteam": "OFA 02B GP",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2468,7 +2468,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Billy Goats 2",
 			"visitingteam": "RVT 05/06B",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2478,7 +2478,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT G Primerano",
 			"visitingteam": "OFA 02G GP",
-			"undefined": "2:30 PM"
+			"gametimestring": "2:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2488,7 +2488,7 @@
 			"gamefield": "Reinhart 1",
 			"hometeam": "OFA 02B NV",
 			"visitingteam": "BUSC Spartans",
-			"undefined": "2:45 PM"
+			"gametimestring": "2:45 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -2498,7 +2498,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07G Black",
 			"visitingteam": "NSS Missfits Xtreme",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2508,7 +2508,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "NSS Kaos Titans",
 			"visitingteam": "OFA 05B GP",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -2518,7 +2518,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC TNT",
 			"visitingteam": "NSS Missfits10",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -2528,7 +2528,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT 07G Red",
 			"visitingteam": "SOSA Blackout",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2538,7 +2538,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Kaos Rebels",
 			"visitingteam": "UUSC 08B",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2548,7 +2548,7 @@
 			"gamefield": "Reinhart 1A",
 			"hometeam": "NSS Kaos 10",
 			"visitingteam": "UUSC 10B",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -2558,7 +2558,7 @@
 			"gamefield": "Reinhart 1B",
 			"hometeam": "OFA 09B Blue",
 			"visitingteam": "RVT 09B White",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2568,7 +2568,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "NSS Shockers",
 			"visitingteam": "UUSC HSG Green",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2578,7 +2578,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT 07B White",
 			"visitingteam": "NSS Kaos Arsenal 07B",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2588,7 +2588,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B Red",
 			"visitingteam": "ASC 10B Avengers",
-			"undefined": "9:00 AM"
+			"gametimestring": "9:00 AM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -2598,7 +2598,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC 08G",
 			"visitingteam": "OFA 08G Black",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2608,7 +2608,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Comp",
 			"visitingteam": "RVT 10B White",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2618,7 +2618,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT G Maukonen",
 			"visitingteam": "OFA 02G HV",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2628,7 +2628,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Venom",
 			"visitingteam": "RVT 07B White",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -2638,7 +2638,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G White",
 			"visitingteam": "UUSC 10G",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -2648,7 +2648,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC Dynamite",
 			"visitingteam": "RVT 09G Red",
-			"undefined": "11:45 AM"
+			"gametimestring": "11:45 AM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2658,7 +2658,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02G GP",
 			"visitingteam": "NSS Mavericks",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -2668,7 +2668,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 07G",
 			"visitingteam": "RVT 07G Red",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2678,7 +2678,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSG Green",
 			"visitingteam": "BUSC Green",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2688,7 +2688,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT B Stewart",
 			"visitingteam": "BUSC Billy Goats 1",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -2698,7 +2698,7 @@
 			"gamefield": "Steen Sports Park 4A",
 			"hometeam": "BUSC U12B",
 			"visitingteam": "OFA 09B Blue",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -2708,7 +2708,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G Red",
 			"visitingteam": "UUSC 11G",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -2718,7 +2718,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 09G",
 			"visitingteam": "OFA 09G Black",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2728,7 +2728,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT G Primerano",
 			"visitingteam": "AC United Freedom",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2738,7 +2738,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Spartans",
 			"visitingteam": "BUSC Inter Malin",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2748,7 +2748,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSG Black",
 			"visitingteam": "BUSC Green",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2758,7 +2758,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Mavericks",
 			"visitingteam": "BUSC White",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2768,7 +2768,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 03B Red",
 			"visitingteam": "UUSC HSB Black",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2778,7 +2778,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT B Stewart",
 			"visitingteam": "BUSC Billy Goats 2",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2788,7 +2788,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B Red",
 			"visitingteam": "ASC U14B",
-			"undefined": "6:00 PM"
+			"gametimestring": "6:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2798,7 +2798,7 @@
 			"gamefield": "US Cellular 11",
 			"hometeam": "RVT U19G",
 			"visitingteam": "AC United Freedom",
-			"undefined": "7:00 PM"
+			"gametimestring": "7:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -2808,7 +2808,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07G Black",
 			"visitingteam": "SOSA Blackout",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2818,7 +2818,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Barcelona",
 			"visitingteam": "BUSC Venom",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -2828,7 +2828,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 08G",
 			"visitingteam": "RVT 08G Red",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2838,7 +2838,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSG Green",
 			"visitingteam": "RVT G Maukonen",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -2848,7 +2848,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Missfits Xtreme",
 			"visitingteam": "ASC Avalanche",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -2858,7 +2858,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC Thunder",
 			"visitingteam": "RVT 09B Red",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2868,7 +2868,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Inter Malin",
 			"visitingteam": "NSS Kaos Titans",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -2878,7 +2878,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G White",
 			"visitingteam": "NSS Missfits 09",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2888,7 +2888,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Kaos",
 			"visitingteam": "RVT 05/06B",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2898,7 +2898,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07B Blue",
 			"visitingteam": "RVT 07B White",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2908,7 +2908,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10B",
 			"visitingteam": "RVT 10B Red",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2918,7 +2918,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSB Black",
 			"visitingteam": "RVT B Stewart",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2928,7 +2928,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC 08B",
 			"visitingteam": "ASC U13B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -2938,7 +2938,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Avengers",
 			"visitingteam": "OFA 10B Blue",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -2948,7 +2948,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Billy Goats 1",
 			"visitingteam": "OFA 02B GP",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -2958,7 +2958,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Spartans",
 			"visitingteam": "BUSC Real Barca",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -2968,7 +2968,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G Red",
 			"visitingteam": "UUSC 10G",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -2978,7 +2978,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Mavericks",
 			"visitingteam": "BUSC White",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -2988,7 +2988,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 07B Red",
 			"visitingteam": "OFA 07B Black",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -2998,7 +2998,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02G HV",
 			"visitingteam": "OFA 04G GP",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -3008,7 +3008,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 07G Red",
 			"visitingteam": "NSS Missfits Xtreme",
-			"undefined": "2:30 PM"
+			"gametimestring": "2:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3018,7 +3018,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC HSB Green",
 			"visitingteam": "OFA 02B HV",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3028,7 +3028,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "NSS Kaos Titans",
 			"visitingteam": "BUSC Billy Goats 2",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -3038,7 +3038,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Missfits 09",
 			"visitingteam": "RVT 09G Red",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3048,7 +3048,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B Red",
 			"visitingteam": "OFA 08B Black",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3058,7 +3058,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 03B Red",
 			"visitingteam": "NSS Kaos",
-			"undefined": "4:30 PM"
+			"gametimestring": "4:30 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -3068,7 +3068,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B White",
 			"visitingteam": "OFA 09B Black",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -3078,7 +3078,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "NSS Mavericks",
 			"visitingteam": "RVT G Primerano",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -3088,7 +3088,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B Red",
 			"visitingteam": "ASC 10B Comp",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -3098,7 +3098,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Shockers",
 			"visitingteam": "BUSC Green",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -3108,7 +3108,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC White",
 			"visitingteam": "RVT U19G",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -3118,7 +3118,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08G Red",
 			"visitingteam": "BUSC Strikers",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -3128,7 +3128,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10G",
 			"visitingteam": "OFA 09G Blue",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -3138,7 +3138,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B Red",
 			"visitingteam": "BUSC U12B",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -3148,7 +3148,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09G Black",
 			"visitingteam": "RVT 09G White",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3158,7 +3158,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B NV",
 			"visitingteam": "BUSC Spartans",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -3168,7 +3168,7 @@
 			"gamefield": "Fir Grove 4",
 			"hometeam": "UUSC 07G",
 			"visitingteam": "OFA 07G Black",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3178,7 +3178,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSB Black",
 			"visitingteam": "RVT 05/06B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3188,7 +3188,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U14B",
 			"visitingteam": "OFA 07B Black",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3198,7 +3198,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 03B Red",
 			"visitingteam": "BUSC Billy Goats 1",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -3208,7 +3208,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 11G",
 			"visitingteam": "ASC TNT",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -3218,7 +3218,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B White",
 			"visitingteam": "OFA 09B Blue",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -3228,7 +3228,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 08G Black",
 			"visitingteam": "ASC Blue Storm 08G",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3238,7 +3238,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B RR",
 			"visitingteam": "BUSC Real Barca",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -3248,7 +3248,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "NSS Shockers",
 			"visitingteam": "OFA 04G GP",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3258,7 +3258,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 07B White",
 			"visitingteam": "OFA 08B Black",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -3268,7 +3268,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Blackout",
 			"visitingteam": "RVT 07G Red",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -3278,7 +3278,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09G Red",
 			"visitingteam": "ASC 09G",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -3288,7 +3288,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02G HV",
 			"visitingteam": "UUSC HSG Black",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3298,7 +3298,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B HV",
 			"visitingteam": "OFA 03B GP",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -3308,7 +3308,7 @@
 			"gamefield": "DBSC 3A",
 			"hometeam": "OFA 09B Black",
 			"visitingteam": "RVT 09B Red",
-			"undefined": "9:30 AM"
+			"gametimestring": "9:30 AM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -3318,7 +3318,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC White",
 			"visitingteam": "NSS Mavericks",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -3328,7 +3328,7 @@
 			"gamefield": "Steen Sports Park 4A",
 			"hometeam": "BUSC U12B",
 			"visitingteam": "RVT 09B White",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3338,7 +3338,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02B GP",
 			"visitingteam": "NSS Kaos",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3348,7 +3348,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 05B GP",
 			"visitingteam": "BUSC Spartans",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -3358,7 +3358,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B White",
 			"visitingteam": "NSS Kaos 10",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3368,7 +3368,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 05/06B White",
 			"visitingteam": "NSS Kaos Titans",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3378,7 +3378,7 @@
 			"gamefield": "US Cellular 14",
 			"hometeam": "SOSA Barcelona",
 			"visitingteam": "RVT 08B Red",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -3388,7 +3388,7 @@
 			"gamefield": "Steen Sports Park 2",
 			"hometeam": "BUSC Strikers",
 			"visitingteam": "OFA 08G Black",
-			"undefined": "12:30 PM"
+			"gametimestring": "12:30 PM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -3398,7 +3398,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Avalanche",
 			"visitingteam": "UUSC 07G",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -3408,7 +3408,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 10B Comp",
 			"visitingteam": "UUSC 10B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3418,7 +3418,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Billy Goats 1",
 			"visitingteam": "RVT 05/06B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -3428,7 +3428,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02G GP",
 			"visitingteam": "RVT G Primerano",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3438,7 +3438,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 03B GP",
 			"visitingteam": "BUSC Real Barca",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -3448,7 +3448,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Missfits10",
 			"visitingteam": "RVT 10G Red",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -3458,7 +3458,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 09G White",
 			"visitingteam": "ASC Dynamite",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -3468,7 +3468,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "AC United Freedom",
 			"visitingteam": "NSS Mavericks",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3478,7 +3478,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 07B Red",
 			"visitingteam": "OFA 07B Black",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3488,7 +3488,7 @@
 			"gamefield": "Steen Sports Park 2",
 			"hometeam": "BUSC Venom",
 			"visitingteam": "OFA 07B Blue",
-			"undefined": "2:30 PM"
+			"gametimestring": "2:30 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3498,7 +3498,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U13B",
 			"visitingteam": "RVT 08B White",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3508,7 +3508,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Billy Goats 2",
 			"visitingteam": "RVT 03B Red",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3518,7 +3518,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 02B HV",
 			"visitingteam": "BUSC Inter Malin",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -3528,7 +3528,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "NSS Kaos 10",
 			"visitingteam": "RVT 10B Red",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3538,7 +3538,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT B Stewart",
 			"visitingteam": "NSS Kaos",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3548,7 +3548,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "NSS Kaos Titans",
 			"visitingteam": "OFA 02B NV",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -3558,7 +3558,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC White",
 			"visitingteam": "AC United Freedom",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -3568,7 +3568,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G White",
 			"visitingteam": "NSS Missfits10",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -3578,7 +3578,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT G Maukonen",
 			"visitingteam": "UUSC HSG Black",
-			"undefined": "5:30 PM"
+			"gametimestring": "5:30 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3588,7 +3588,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "NSS Kaos",
 			"visitingteam": "UUSC HSB Black",
-			"undefined": "9:30 AM"
+			"gametimestring": "9:30 AM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -3598,7 +3598,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B White",
 			"visitingteam": "ASC 10B Avengers",
-			"undefined": "10:00 AM"
+			"gametimestring": "10:00 AM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -3608,7 +3608,7 @@
 			"gamefield": "Steen Sports Park 2",
 			"hometeam": "BUSC Green",
 			"visitingteam": "NSS Shockers",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Rogue",
@@ -3618,7 +3618,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 07G Red",
 			"visitingteam": "OFA 07G Black",
-			"undefined": "11:00 AM"
+			"gametimestring": "11:00 AM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -3628,7 +3628,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC Dynamite",
 			"visitingteam": "RVT 09G Red",
-			"undefined": "11:30 AM"
+			"gametimestring": "11:30 AM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -3638,7 +3638,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 10G",
 			"visitingteam": "OFA 09G Black",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -3648,7 +3648,7 @@
 			"gamefield": "Fir Grove 5",
 			"hometeam": "UUSC HSG Green",
 			"visitingteam": "OFA 04G GP",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3658,7 +3658,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Spartans",
 			"visitingteam": "OFA 02B RR",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3668,7 +3668,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Real Barca",
 			"visitingteam": "UUSC HSB Green",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys Pacific Crest",
@@ -3678,7 +3678,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10B Red",
 			"visitingteam": "OFA 10B Blue",
-			"undefined": "12:00 PM"
+			"gametimestring": "12:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3688,7 +3688,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 02B GP",
 			"visitingteam": "RVT 03B Red",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3698,7 +3698,7 @@
 			"gamefield": "DBSC 4",
 			"hometeam": "OFA 08B Black",
 			"visitingteam": "BUSC Venom",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Cascade",
@@ -3708,7 +3708,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC Blue Storm 08G",
 			"visitingteam": "UUSC 08G",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3718,7 +3718,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 08B White",
 			"visitingteam": "UUSC 08B",
-			"undefined": "1:00 PM"
+			"gametimestring": "1:00 PM"
 		},
 		{
 			"bracket": "Girls Siskiyou",
@@ -3728,7 +3728,7 @@
 			"gamefield": "North Mountain Park 3",
 			"hometeam": "ASC 09G",
 			"visitingteam": "RVT 09G White",
-			"undefined": "1:30 PM"
+			"gametimestring": "1:30 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -3738,7 +3738,7 @@
 			"gamefield": "Fir Grove 3",
 			"hometeam": "UUSC 11G",
 			"visitingteam": "RVT 10G White",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Gold",
@@ -3748,7 +3748,7 @@
 			"gamefield": "Steen Sports Park 2",
 			"hometeam": "BUSC Billy Goats 1",
 			"visitingteam": "RVT B Stewart",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3758,7 +3758,7 @@
 			"gamefield": "Steen Sports Park 3",
 			"hometeam": "BUSC Real Barca",
 			"visitingteam": "OFA 05B GP",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Siskiyou",
@@ -3768,7 +3768,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 09B White",
 			"visitingteam": "ASC Thunder",
-			"undefined": "2:00 PM"
+			"gametimestring": "2:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3778,7 +3778,7 @@
 			"gamefield": "North Mountain Park 1",
 			"hometeam": "ASC U14B",
 			"visitingteam": "RVT 07B Red",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Girls HS Silver",
@@ -3788,7 +3788,7 @@
 			"gamefield": "Steen Sports Park 5",
 			"hometeam": "BUSC Green",
 			"visitingteam": "NSS Shockers",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys Cascade",
@@ -3798,7 +3798,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT 07B White",
 			"visitingteam": "SOSA Barcelona",
-			"undefined": "3:00 PM"
+			"gametimestring": "3:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3808,7 +3808,7 @@
 			"gamefield": "DBSC 3",
 			"hometeam": "OFA 07B Black",
 			"visitingteam": "RVT 05/06B White",
-			"undefined": "3:30 PM"
+			"gametimestring": "3:30 PM"
 		},
 		{
 			"bracket": "Girls Pacific Crest",
@@ -3818,7 +3818,7 @@
 			"gamefield": "US Cellular 11A",
 			"hometeam": "RVT 10G Red",
 			"visitingteam": "ASC TNT",
-			"undefined": "4:00 PM"
+			"gametimestring": "4:00 PM"
 		},
 		{
 			"bracket": "Girls HS Gold",
@@ -3828,7 +3828,7 @@
 			"gamefield": "US Cellular 13",
 			"hometeam": "RVT U19G",
 			"visitingteam": "OFA 02G GP",
-			"undefined": "5:00 PM"
+			"gametimestring": "5:00 PM"
 		},
 		{
 			"bracket": "Boys HS Silver",
@@ -3838,7 +3838,7 @@
 			"gamefield": "US Cellular 10",
 			"hometeam": "RVT 05/06B White",
 			"visitingteam": "OFA 07B Black",
-			"undefined": "6:00 PM"
+			"gametimestring": "6:00 PM"
 		}
 	]
 }
