@@ -1,0 +1,3844 @@
+{
+  "Games": [
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 13420,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09B Blue",
+			"visitingteam": "RVT 10B White",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 13421,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 3B",
+			"hometeam": "OFA 09G Blue",
+			"visitingteam": "RVT 10G White",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 13422,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B RR",
+			"visitingteam": "RVT 05/06B White",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 10210,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC Thunder",
+			"visitingteam": "RVT 09B Red",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 10211,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Kaos Rebels",
+			"visitingteam": "OFA 08B Black",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15490,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT 07B Red",
+			"visitingteam": "ASC U14B",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15491,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT U19G",
+			"visitingteam": "NSS Mavericks",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 13423,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09B Black",
+			"visitingteam": "RVT 09B White",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 13424,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3B",
+			"hometeam": "OFA 09G Black",
+			"visitingteam": "RVT 09G Red",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 13425,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02G GP",
+			"visitingteam": "BUSC White",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 17120,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 08B",
+			"visitingteam": "RVT 08B White",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 10212,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC TNT",
+			"visitingteam": "RVT 10G Red",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 14350,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Strikers",
+			"visitingteam": "UUSC 08G",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 14351,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Green",
+			"visitingteam": "UUSC HSG Black",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15492,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Missfits10",
+			"visitingteam": "UUSC 11G",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15493,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 07G Red",
+			"visitingteam": "ASC Avalanche",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 17121,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSB Green",
+			"visitingteam": "OFA 03B GP",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15494,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 05/06B",
+			"visitingteam": "NSS Kaos",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 10213,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U13B",
+			"visitingteam": "NSS Kaos Rebels",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 14352,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Spartans",
+			"visitingteam": "BUSC Inter Malin",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15495,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08G Red",
+			"visitingteam": "ASC Blue Storm 08G",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 14353,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Green",
+			"visitingteam": "UUSC HSG Green",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15496,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT G Primerano",
+			"visitingteam": "NSS Mavericks",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15497,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Missfits10",
+			"visitingteam": "UUSC 10G",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 9/26",
+			"gamenumber": 15498,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Kaos",
+			"visitingteam": "BUSC Billy Goats 1",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15499,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G Red",
+			"visitingteam": "ASC 09G",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15500,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B Red",
+			"visitingteam": "SOSA Barcelona",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 17122,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10B",
+			"visitingteam": "RVT 10B Red",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 17123,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 07G",
+			"visitingteam": "SOSA Blackout",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15501,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G White",
+			"visitingteam": "ASC Dynamite",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15502,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B White",
+			"visitingteam": "BUSC Venom",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 13427,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02G HV",
+			"visitingteam": "BUSC Green",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 10214,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U13B",
+			"visitingteam": "RVT 07B White",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 13428,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Reinhart 1A",
+			"hometeam": "OFA 10B Blue",
+			"visitingteam": "ASC 10B Comp",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 14354,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Inter Malin",
+			"visitingteam": "OFA 05B GP",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 17124,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSB Black",
+			"visitingteam": "RVT 03B Red",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15503,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B White",
+			"visitingteam": "ASC 10B Avengers",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15504,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT B Stewart",
+			"visitingteam": "OFA 02B GP",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 13429,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07G Black",
+			"visitingteam": "RVT 07G Red",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 13430,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B NV",
+			"visitingteam": "UUSC HSB Green",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 14355,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Real Barca",
+			"visitingteam": "BUSC Spartans",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15505,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B White",
+			"visitingteam": "BUSC U12B",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 15506,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B White",
+			"visitingteam": "OFA 02B HV",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 13431,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07B Black",
+			"visitingteam": "RVT 07B Red",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 9/27",
+			"gamenumber": 13432,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 04G GP",
+			"visitingteam": "RVT G Maukonen",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 13433,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 10B Blue",
+			"visitingteam": "RVT 10B Red",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 10215,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Avalanche",
+			"visitingteam": "NSS Missfits Xtreme",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 10216,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "NSS Missfits 09",
+			"visitingteam": "OFA 09G Black",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15509,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT G Primerano",
+			"visitingteam": "AC United Freedom",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15512,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Kaos Arsenal 07B",
+			"visitingteam": "RVT 07B Red",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 13434,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09B Blue",
+			"visitingteam": "BUSC U12B",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 13436,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02G HV",
+			"visitingteam": "NSS Shockers",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 17125,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10B",
+			"visitingteam": "RVT 10B White",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 10217,
+			"gametime": "1899-12-30T20:45:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Comp",
+			"visitingteam": "NSS Kaos 10",
+			"undefined": "12:45 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 14357,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Real Barca",
+			"visitingteam": "NSS Kaos Titans",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15515,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Barcelona",
+			"visitingteam": "RVT 08B White",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15510,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B Red",
+			"visitingteam": "OFA 09B Black",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15513,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08G Red",
+			"visitingteam": "OFA 07G Black",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 13435,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09G Blue",
+			"visitingteam": "RVT 10G Red",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 13437,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 08G Black",
+			"visitingteam": "UUSC 08G",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 10218,
+			"gametime": "1899-12-30T22:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "NSS Missfits 09",
+			"visitingteam": "ASC 09G",
+			"undefined": "2:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15507,
+			"gametime": "1899-12-30T22:30:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "AC United Freedom",
+			"visitingteam": "RVT U19G",
+			"undefined": "2:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 14358,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Inter Malin",
+			"visitingteam": "OFA 02B RR",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15514,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Blackout",
+			"visitingteam": "NSS Missfits Xtreme",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15511,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G Red",
+			"visitingteam": "ASC Dynamite",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 13426,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07B Blue",
+			"visitingteam": "UUSC 08B",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 13438,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 04G GP",
+			"visitingteam": "NSS Shockers",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 10219,
+			"gametime": "1899-12-31T00:15:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Avengers",
+			"visitingteam": "NSS Kaos 10",
+			"undefined": "4:15 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 15508,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "NSS Kaos Arsenal 07B",
+			"visitingteam": "RVT 08B Red",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/3",
+			"gamenumber": 14359,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "NSS Kaos Titans",
+			"visitingteam": "BUSC Spartans",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 15516,
+			"gametime": "1899-12-30T17:15:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B White",
+			"visitingteam": "OFA 10B Blue",
+			"undefined": "9:15 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 15517,
+			"gametime": "1899-12-30T19:15:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G Red",
+			"visitingteam": "UUSC 10G",
+			"undefined": "11:15 AM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 15518,
+			"gametime": "1899-12-30T19:15:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B",
+			"visitingteam": "UUSC HSB Black",
+			"undefined": "11:15 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 13439,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07B Blue",
+			"visitingteam": "SOSA Barcelona",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 17126,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSG Black",
+			"visitingteam": "RVT G Maukonen",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 14360,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 4A",
+			"hometeam": "BUSC U12B",
+			"visitingteam": "RVT 09B Red",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 14361,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Spartans",
+			"visitingteam": "OFA 02B HV",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 15519,
+			"gametime": "1899-12-30T21:15:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G White",
+			"visitingteam": "UUSC 11G",
+			"undefined": "1:15 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 15520,
+			"gametime": "1899-12-30T21:15:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT U19G",
+			"visitingteam": "BUSC White",
+			"undefined": "1:15 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 10220,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Blue Storm 08G",
+			"visitingteam": "BUSC Strikers",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 10221,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC Thunder",
+			"visitingteam": "RVT 09B White",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 13441,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 05B GP",
+			"visitingteam": "UUSC HSB Green",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 13442,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 03B GP",
+			"visitingteam": "OFA 02B NV",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 14362,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Venom",
+			"visitingteam": "ASC U13B",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 14363,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Green",
+			"visitingteam": "OFA 02G HV",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 15521,
+			"gametime": "1899-12-30T23:15:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT 07G Red",
+			"visitingteam": "UUSC 07G",
+			"undefined": "3:15 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 10222,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U14B",
+			"visitingteam": "RVT 07B White",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 10223,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC TNT",
+			"visitingteam": "OFA 09G Blue",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/4",
+			"gamenumber": 15524,
+			"gametime": "1899-12-31T01:15:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B White",
+			"visitingteam": "BUSC Inter Malin",
+			"undefined": "5:15 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 13443,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B NV",
+			"visitingteam": "OFA 02B RR",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 17127,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC 08B",
+			"visitingteam": "OFA 07B Blue",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 10224,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "NSS Kaos",
+			"visitingteam": "RVT 03B Red",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 10225,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "ASC Dynamite",
+			"visitingteam": "NSS Missfits 09",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 15525,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B Red",
+			"visitingteam": "NSS Kaos 10",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 13444,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09B Blue",
+			"visitingteam": "ASC Thunder",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 17128,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10B",
+			"visitingteam": "ASC 10B Avengers",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 17129,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSB Green",
+			"visitingteam": "BUSC Real Barca",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 15526,
+			"gametime": "1899-12-30T20:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B Red",
+			"visitingteam": "NSS Kaos Rebels",
+			"undefined": "12:30 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 14364,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 4A",
+			"hometeam": "BUSC U12B",
+			"visitingteam": "OFA 09B Black",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 14365,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Billy Goats 2",
+			"visitingteam": "RVT 05/06B White",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 10226,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "NSS Mavericks",
+			"visitingteam": "RVT U19G",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 15532,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Blackout",
+			"visitingteam": "ASC Avalanche",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 15527,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G Red",
+			"visitingteam": "NSS Missfits10",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 17133,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 07G",
+			"visitingteam": "RVT 08G Red",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 12130,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSG Green",
+			"visitingteam": "OFA 02G HV",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 14366,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC White",
+			"visitingteam": "OFA 02G GP",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 14367,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Spartans",
+			"visitingteam": "OFA 03B GP",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 10227,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "ASC 09G",
+			"visitingteam": "NSS Missfits 09",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 15529,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Kaos 10",
+			"visitingteam": "RVT 10B White",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 15530,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 08B White",
+			"visitingteam": "NSS Kaos Rebels",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 10228,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Mavericks",
+			"visitingteam": "RVT G Primerano",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/10",
+			"gamenumber": 15531,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Missfits10",
+			"visitingteam": "RVT 10G White",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 10229,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U14B",
+			"visitingteam": "RVT 07B Red",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 17131,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 11G",
+			"visitingteam": "OFA 09G Blue",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 17132,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSG Black",
+			"visitingteam": "OFA 04G GP",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 14369,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Real Barca",
+			"visitingteam": "RVT 05/06B White",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 15533,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B White",
+			"visitingteam": "ASC 10B Comp",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 15534,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 09G White",
+			"visitingteam": "ASC 09G",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 13447,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 10B Blue",
+			"visitingteam": "UUSC 10B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 10230,
+			"gametime": "1899-12-30T21:15:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Blue Storm 08G",
+			"visitingteam": "OFA 08G Black",
+			"undefined": "1:15 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 17134,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10G",
+			"visitingteam": "ASC TNT",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 14370,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Venom",
+			"visitingteam": "RVT 08B White",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 15535,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G Red",
+			"visitingteam": "OFA 09G Black",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 15536,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT G Primerano",
+			"visitingteam": "BUSC White",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 13449,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 05B GP",
+			"visitingteam": "OFA 02B HV",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 17137,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC 08G",
+			"visitingteam": "BUSC Strikers",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 14372,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Inter Malin",
+			"visitingteam": "BUSC Spartans",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 15537,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B Red",
+			"visitingteam": "OFA 09B Blue",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/11",
+			"gamenumber": 15538,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT G Maukonen",
+			"visitingteam": "BUSC Green",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 17138,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10G",
+			"visitingteam": "RVT 10G White",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 17135,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSB Black",
+			"visitingteam": "BUSC Billy Goats 1",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 13450,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07B Black",
+			"visitingteam": "NSS Kaos Arsenal 07B",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 10231,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Kaos",
+			"visitingteam": "RVT B Stewart",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 10232,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Avengers",
+			"visitingteam": "RVT 10B Red",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15539,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B Red",
+			"visitingteam": "ASC Thunder",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15540,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Missfits Xtreme",
+			"visitingteam": "SOSA Blackout",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 13451,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B HV",
+			"visitingteam": "NSS Kaos Titans",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 17139,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10B",
+			"visitingteam": "ASC 10B Comp",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 17136,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 08B",
+			"visitingteam": "SOSA Barcelona",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 17140,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC 07G",
+			"visitingteam": "ASC Avalanche",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 14373,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Inter Malin",
+			"visitingteam": "OFA 02B NV",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 13452,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09B Black",
+			"visitingteam": "RVT 09B White",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 10233,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "AC United Freedom",
+			"visitingteam": "RVT G Primerano",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 10234,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC Dynamite",
+			"visitingteam": "RVT 09G White",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15541,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT 08B Red",
+			"visitingteam": "BUSC Venom",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15542,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08G Red",
+			"visitingteam": "OFA 08G Black",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 13453,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 04G GP",
+			"visitingteam": "UUSC HSG Green",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15543,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 07B White",
+			"visitingteam": "OFA 07B Blue",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 17141,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 11G",
+			"visitingteam": "RVT 10G Red",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 17142,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC 08G",
+			"visitingteam": "ASC Blue Storm 08G",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 14374,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Spartans",
+			"visitingteam": "BUSC Real Barca",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 10235,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Kaos Arsenal 07B",
+			"visitingteam": "ASC U14B",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15544,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "NSS Missfits Xtreme",
+			"visitingteam": "RVT 07G Red",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15545,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B White",
+			"visitingteam": "ASC U13B",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 13454,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "NSS Kaos Titans",
+			"visitingteam": "UUSC HSB Green",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15546,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 05/06B",
+			"visitingteam": "NSS Kaos",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/17",
+			"gamenumber": 15547,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT U19G",
+			"visitingteam": "AC United Freedom",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15548,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 03B Red",
+			"visitingteam": "OFA 02B GP",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15549,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B Red",
+			"visitingteam": "UUSC 10B",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15550,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B",
+			"visitingteam": "BUSC Billy Goats 2",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15555,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Blackout",
+			"visitingteam": "UUSC 07G",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 13455,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09G Blue",
+			"visitingteam": "ASC 09G",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 13458,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 07B Black",
+			"visitingteam": "RVT 07B Red",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 17143,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSB Green",
+			"visitingteam": "OFA 02B RR",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 10236,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Avalanche",
+			"visitingteam": "OFA 07G Black",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 14375,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Strikers",
+			"visitingteam": "RVT 08G Red",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 14376,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC White",
+			"visitingteam": "RVT U19G",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15551,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B White",
+			"visitingteam": "BUSC U12B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15552,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT B Stewart",
+			"visitingteam": "UUSC HSB Black",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 13457,
+			"gametime": "1899-12-30T22:45:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09G Black",
+			"visitingteam": "ASC Dynamite",
+			"undefined": "2:45 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 13456,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 08B Black",
+			"visitingteam": "RVT 08B Red",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 17144,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSG Black",
+			"visitingteam": "OFA 02G HV",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 10237,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U13B",
+			"visitingteam": "UUSC 08B",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 14377,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Green",
+			"visitingteam": "RVT G Maukonen",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15553,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G White",
+			"visitingteam": "ASC TNT",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 15554,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B White",
+			"visitingteam": "OFA 03B GP",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 13459,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 10B Blue",
+			"visitingteam": "RVT 10B White",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/18",
+			"gamenumber": 13445,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 07B Black",
+			"visitingteam": "RVT 07B White",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 10238,
+			"gametime": "1899-12-30T17:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Avalanche",
+			"visitingteam": "RVT 07G Red",
+			"undefined": "9:00 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 13460,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09G Black",
+			"visitingteam": "UUSC 11G",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 13461,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B RR",
+			"visitingteam": "OFA 05B GP",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 10239,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "AC United Freedom",
+			"visitingteam": "OFA 02G GP",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15566,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Barcelona",
+			"visitingteam": "UUSC 08B",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 10240,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Avengers",
+			"visitingteam": "RVT 10B White",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15556,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G Red",
+			"visitingteam": "NSS Missfits 09",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15557,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Kaos Arsenal 07B",
+			"visitingteam": "OFA 07B Black",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 13462,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09B Black",
+			"visitingteam": "RVT 09B Red",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 13463,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 08G Black",
+			"visitingteam": "BUSC Strikers",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 10241,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Blue Storm 08G",
+			"visitingteam": "RVT 08G Red",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 14378,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Billy Goats 1",
+			"visitingteam": "RVT 03B Red",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 14379,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Inter Malin",
+			"visitingteam": "UUSC HSB Green",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 10242,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Comp",
+			"visitingteam": "RVT 10B Red",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15558,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G White",
+			"visitingteam": "UUSC 10G",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15559,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Kaos Rebels",
+			"visitingteam": "RVT 08B Red",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 13448,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02B GP",
+			"visitingteam": "RVT 05/06B",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 13464,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 07G Black",
+			"visitingteam": "UUSC 07G",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15560,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "NSS Shockers",
+			"visitingteam": "UUSC HSG Black",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 10243,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "AC United Freedom",
+			"visitingteam": "BUSC White",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 14371,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Billy Goats 2",
+			"visitingteam": "RVT B Stewart",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 14380,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Real Barca",
+			"visitingteam": "OFA 02B NV",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15561,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Missfits 09",
+			"visitingteam": "RVT 09G White",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15562,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B White",
+			"visitingteam": "BUSC Spartans",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 13446,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 08B Black",
+			"visitingteam": "ASC U13B",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15563,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 07B Red",
+			"visitingteam": "NSS Kaos Arsenal 07B",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 10244,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Kaos Rebels",
+			"visitingteam": "BUSC Venom",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15564,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT G Maukonen",
+			"visitingteam": "NSS Shockers",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/24",
+			"gamenumber": 15565,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B White",
+			"visitingteam": "OFA 07B Blue",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 10245,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 09G",
+			"visitingteam": "RVT 09G Red",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15567,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B Red",
+			"visitingteam": "OFA 09B Blue",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15568,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08G Red",
+			"visitingteam": "UUSC 08G",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 13465,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 03B GP",
+			"visitingteam": "BUSC Inter Malin",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 13466,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02G GP",
+			"visitingteam": "RVT U19G",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 14381,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Steen Sports Park 4A",
+			"hometeam": "BUSC U12B",
+			"visitingteam": "ASC Thunder",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 14382,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC White",
+			"visitingteam": "RVT G Primerano",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 17145,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10G",
+			"visitingteam": "RVT 10G Red",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 17146,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 08B",
+			"visitingteam": "OFA 08B Black",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 10246,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U13B",
+			"visitingteam": "SOSA Barcelona",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 10247,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC TNT",
+			"visitingteam": "RVT 10G White",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15569,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B White",
+			"visitingteam": "UUSC 10B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15570,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 03B Red",
+			"visitingteam": "BUSC Billy Goats 2",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 13467,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 05B GP",
+			"visitingteam": "RVT 05/06B White",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 13468,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B HV",
+			"visitingteam": "BUSC Real Barca",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 14383,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Venom",
+			"visitingteam": "RVT 08B Red",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15571,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G White",
+			"visitingteam": "OFA 09G Blue",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15572,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B",
+			"visitingteam": "UUSC HSB Black",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 13469,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02B GP",
+			"visitingteam": "RVT B Stewart",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 13470,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 04G GP",
+			"visitingteam": "BUSC Green",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15573,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT 07B White",
+			"visitingteam": "ASC U14B",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 10/25",
+			"gamenumber": 15574,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT G Maukonen",
+			"visitingteam": "UUSC HSG Green",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13471,
+			"gametime": "1899-12-30T17:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 08G Black",
+			"visitingteam": "RVT 08G Red",
+			"undefined": "9:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13472,
+			"gametime": "1899-12-30T17:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 08B Black",
+			"visitingteam": "RVT 08B White",
+			"undefined": "9:00 AM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13480,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "NSS Missfits Xtreme",
+			"visitingteam": "UUSC 07G",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13474,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 03B GP",
+			"visitingteam": "NSS Kaos Titans",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13475,
+			"gametime": "1899-12-30T19:15:00.000Z",
+			"gamefield": "Reinhart 1A",
+			"hometeam": "OFA 09G Blue",
+			"visitingteam": "NSS Missfits10",
+			"undefined": "11:15 AM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 10248,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 09G",
+			"visitingteam": "RVT 09G White",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15575,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B Red",
+			"visitingteam": "BUSC U12B",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15578,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Shockers",
+			"visitingteam": "RVT G Maukonen",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15584,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Barcelona",
+			"visitingteam": "NSS Kaos Rebels",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 17147,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSB Green",
+			"visitingteam": "RVT 05/06B White",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 14384,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Strikers",
+			"visitingteam": "ASC Blue Storm 08G",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13476,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02B RR",
+			"visitingteam": "BUSC Inter Malin",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13483,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 07B Blue",
+			"visitingteam": "ASC U13B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13478,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Reinhart 1A",
+			"hometeam": "NSS Kaos 10",
+			"visitingteam": "OFA 10B Blue",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 10249,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC Thunder",
+			"visitingteam": "OFA 09B Black",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15577,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT 07B Red",
+			"visitingteam": "NSS Kaos Arsenal 07B",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 17148,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSB Black",
+			"visitingteam": "OFA 02B GP",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 14385,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Billy Goats 2",
+			"visitingteam": "RVT 05/06B",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15586,
+			"gametime": "1899-12-30T22:30:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT G Primerano",
+			"visitingteam": "OFA 02G GP",
+			"undefined": "2:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13484,
+			"gametime": "1899-12-30T22:45:00.000Z",
+			"gamefield": "Reinhart 1",
+			"hometeam": "OFA 02B NV",
+			"visitingteam": "BUSC Spartans",
+			"undefined": "2:45 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13473,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07G Black",
+			"visitingteam": "NSS Missfits Xtreme",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13481,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "NSS Kaos Titans",
+			"visitingteam": "OFA 05B GP",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 10250,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC TNT",
+			"visitingteam": "NSS Missfits10",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15580,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT 07G Red",
+			"visitingteam": "SOSA Blackout",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15581,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Kaos Rebels",
+			"visitingteam": "UUSC 08B",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13482,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "Reinhart 1A",
+			"hometeam": "NSS Kaos 10",
+			"visitingteam": "UUSC 10B",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 13479,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "Reinhart 1B",
+			"hometeam": "OFA 09B Blue",
+			"visitingteam": "RVT 09B White",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15582,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "NSS Shockers",
+			"visitingteam": "UUSC HSG Green",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 10/31",
+			"gamenumber": 15583,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT 07B White",
+			"visitingteam": "NSS Kaos Arsenal 07B",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15585,
+			"gametime": "1899-12-30T17:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B Red",
+			"visitingteam": "ASC 10B Avengers",
+			"undefined": "9:00 AM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 17149,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC 08G",
+			"visitingteam": "OFA 08G Black",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 10252,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Comp",
+			"visitingteam": "RVT 10B White",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15590,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT G Maukonen",
+			"visitingteam": "OFA 02G HV",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 14386,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Venom",
+			"visitingteam": "RVT 07B White",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15587,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G White",
+			"visitingteam": "UUSC 10G",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 10253,
+			"gametime": "1899-12-30T19:45:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC Dynamite",
+			"visitingteam": "RVT 09G Red",
+			"undefined": "11:45 AM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 13477,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02G GP",
+			"visitingteam": "NSS Mavericks",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 17150,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 07G",
+			"visitingteam": "RVT 07G Red",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 17151,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSG Green",
+			"visitingteam": "BUSC Green",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15588,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT B Stewart",
+			"visitingteam": "BUSC Billy Goats 1",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 14387,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 4A",
+			"hometeam": "BUSC U12B",
+			"visitingteam": "OFA 09B Blue",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15589,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G Red",
+			"visitingteam": "UUSC 11G",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 10254,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 09G",
+			"visitingteam": "OFA 09G Black",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15579,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT G Primerano",
+			"visitingteam": "AC United Freedom",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 14389,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Spartans",
+			"visitingteam": "BUSC Inter Malin",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 17152,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSG Black",
+			"visitingteam": "BUSC Green",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 10251,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Mavericks",
+			"visitingteam": "BUSC White",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15592,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 03B Red",
+			"visitingteam": "UUSC HSB Black",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15522,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT B Stewart",
+			"visitingteam": "BUSC Billy Goats 2",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15591,
+			"gametime": "1899-12-31T02:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B Red",
+			"visitingteam": "ASC U14B",
+			"undefined": "6:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 11/1",
+			"gamenumber": 15576,
+			"gametime": "1899-12-31T03:00:00.000Z",
+			"gamefield": "US Cellular 11",
+			"hometeam": "RVT U19G",
+			"visitingteam": "AC United Freedom",
+			"undefined": "7:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 13485,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07G Black",
+			"visitingteam": "SOSA Blackout",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15603,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Barcelona",
+			"visitingteam": "BUSC Venom",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 17153,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 08G",
+			"visitingteam": "RVT 08G Red",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 17162,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSG Green",
+			"visitingteam": "RVT G Maukonen",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 10256,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Missfits Xtreme",
+			"visitingteam": "ASC Avalanche",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 10257,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC Thunder",
+			"visitingteam": "RVT 09B Red",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 14390,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Inter Malin",
+			"visitingteam": "NSS Kaos Titans",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15594,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G White",
+			"visitingteam": "NSS Missfits 09",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15595,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Kaos",
+			"visitingteam": "RVT 05/06B",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 13486,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07B Blue",
+			"visitingteam": "RVT 07B White",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 17154,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10B",
+			"visitingteam": "RVT 10B Red",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 17155,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSB Black",
+			"visitingteam": "RVT B Stewart",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 17156,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC 08B",
+			"visitingteam": "ASC U13B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 10259,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Avengers",
+			"visitingteam": "OFA 10B Blue",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 14368,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Billy Goats 1",
+			"visitingteam": "OFA 02B GP",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 14391,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Spartans",
+			"visitingteam": "BUSC Real Barca",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15596,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G Red",
+			"visitingteam": "UUSC 10G",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15597,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Mavericks",
+			"visitingteam": "BUSC White",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15593,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 07B Red",
+			"visitingteam": "OFA 07B Black",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 13492,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02G HV",
+			"visitingteam": "OFA 04G GP",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15598,
+			"gametime": "1899-12-30T22:30:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 07G Red",
+			"visitingteam": "NSS Missfits Xtreme",
+			"undefined": "2:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 17157,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC HSB Green",
+			"visitingteam": "OFA 02B HV",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 14392,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "NSS Kaos Titans",
+			"visitingteam": "BUSC Billy Goats 2",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15599,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Missfits 09",
+			"visitingteam": "RVT 09G Red",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15523,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B Red",
+			"visitingteam": "OFA 08B Black",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15600,
+			"gametime": "1899-12-31T00:30:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 03B Red",
+			"visitingteam": "NSS Kaos",
+			"undefined": "4:30 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15602,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B White",
+			"visitingteam": "OFA 09B Black",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 11/7",
+			"gamenumber": 15601,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "NSS Mavericks",
+			"visitingteam": "RVT G Primerano",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15604,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B Red",
+			"visitingteam": "ASC 10B Comp",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 10258,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Shockers",
+			"visitingteam": "BUSC Green",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 14393,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC White",
+			"visitingteam": "RVT U19G",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15605,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08G Red",
+			"visitingteam": "BUSC Strikers",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 17158,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10G",
+			"visitingteam": "OFA 09G Blue",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15606,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B Red",
+			"visitingteam": "BUSC U12B",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 13488,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09G Black",
+			"visitingteam": "RVT 09G White",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 13489,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B NV",
+			"visitingteam": "BUSC Spartans",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 17159,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 4",
+			"hometeam": "UUSC 07G",
+			"visitingteam": "OFA 07G Black",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 17160,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSB Black",
+			"visitingteam": "RVT 05/06B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 10255,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U14B",
+			"visitingteam": "OFA 07B Black",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15607,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 03B Red",
+			"visitingteam": "BUSC Billy Goats 1",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 17161,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 11G",
+			"visitingteam": "ASC TNT",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15608,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B White",
+			"visitingteam": "OFA 09B Blue",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 13490,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 08G Black",
+			"visitingteam": "ASC Blue Storm 08G",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 13491,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B RR",
+			"visitingteam": "BUSC Real Barca",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 10260,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "NSS Shockers",
+			"visitingteam": "OFA 04G GP",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15609,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 07B White",
+			"visitingteam": "OFA 08B Black",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15611,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Blackout",
+			"visitingteam": "RVT 07G Red",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 15610,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09G Red",
+			"visitingteam": "ASC 09G",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 13487,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02G HV",
+			"visitingteam": "UUSC HSG Black",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/8",
+			"gamenumber": 13493,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B HV",
+			"visitingteam": "OFA 03B GP",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 13497,
+			"gametime": "1899-12-30T17:30:00.000Z",
+			"gamefield": "DBSC 3A",
+			"hometeam": "OFA 09B Black",
+			"visitingteam": "RVT 09B Red",
+			"undefined": "9:30 AM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14397,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC White",
+			"visitingteam": "NSS Mavericks",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14400,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Steen Sports Park 4A",
+			"hometeam": "BUSC U12B",
+			"visitingteam": "RVT 09B White",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 13494,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02B GP",
+			"visitingteam": "NSS Kaos",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 13498,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 05B GP",
+			"visitingteam": "BUSC Spartans",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15614,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B White",
+			"visitingteam": "NSS Kaos 10",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15618,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 05/06B White",
+			"visitingteam": "NSS Kaos Titans",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15620,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 14",
+			"hometeam": "SOSA Barcelona",
+			"visitingteam": "RVT 08B Red",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14395,
+			"gametime": "1899-12-30T20:30:00.000Z",
+			"gamefield": "Steen Sports Park 2",
+			"hometeam": "BUSC Strikers",
+			"visitingteam": "OFA 08G Black",
+			"undefined": "12:30 PM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 10261,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Avalanche",
+			"visitingteam": "UUSC 07G",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 10263,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 10B Comp",
+			"visitingteam": "UUSC 10B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14402,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Billy Goats 1",
+			"visitingteam": "RVT 05/06B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 13495,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02G GP",
+			"visitingteam": "RVT G Primerano",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 13499,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 03B GP",
+			"visitingteam": "BUSC Real Barca",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15615,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Missfits10",
+			"visitingteam": "RVT 10G Red",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15619,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 09G White",
+			"visitingteam": "ASC Dynamite",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14398,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "AC United Freedom",
+			"visitingteam": "NSS Mavericks",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15612,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 07B Red",
+			"visitingteam": "OFA 07B Black",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14396,
+			"gametime": "1899-12-30T22:30:00.000Z",
+			"gamefield": "Steen Sports Park 2",
+			"hometeam": "BUSC Venom",
+			"visitingteam": "OFA 07B Blue",
+			"undefined": "2:30 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 10262,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U13B",
+			"visitingteam": "RVT 08B White",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14934,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Billy Goats 2",
+			"visitingteam": "RVT 03B Red",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 13500,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 02B HV",
+			"visitingteam": "BUSC Inter Malin",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15616,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "NSS Kaos 10",
+			"visitingteam": "RVT 10B Red",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15528,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT B Stewart",
+			"visitingteam": "NSS Kaos",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15613,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "NSS Kaos Titans",
+			"visitingteam": "OFA 02B NV",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 14399,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC White",
+			"visitingteam": "AC United Freedom",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15617,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G White",
+			"visitingteam": "NSS Missfits10",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sat 11/14",
+			"gamenumber": 15627,
+			"gametime": "1899-12-31T01:30:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT G Maukonen",
+			"visitingteam": "UUSC HSG Black",
+			"undefined": "5:30 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 13496,
+			"gametime": "1899-12-30T17:30:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "NSS Kaos",
+			"visitingteam": "UUSC HSB Black",
+			"undefined": "9:30 AM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15622,
+			"gametime": "1899-12-30T18:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B White",
+			"visitingteam": "ASC 10B Avengers",
+			"undefined": "10:00 AM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 14401,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "Steen Sports Park 2",
+			"hometeam": "BUSC Green",
+			"visitingteam": "NSS Shockers",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Rogue",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15623,
+			"gametime": "1899-12-30T19:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 07G Red",
+			"visitingteam": "OFA 07G Black",
+			"undefined": "11:00 AM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 10264,
+			"gametime": "1899-12-30T19:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC Dynamite",
+			"visitingteam": "RVT 09G Red",
+			"undefined": "11:30 AM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 17164,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 10G",
+			"visitingteam": "OFA 09G Black",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 17163,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Fir Grove 5",
+			"hometeam": "UUSC HSG Green",
+			"visitingteam": "OFA 04G GP",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 14404,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Spartans",
+			"visitingteam": "OFA 02B RR",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 14388,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Real Barca",
+			"visitingteam": "UUSC HSB Green",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys Pacific Crest",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15624,
+			"gametime": "1899-12-30T20:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10B Red",
+			"visitingteam": "OFA 10B Blue",
+			"undefined": "12:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 13440,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 02B GP",
+			"visitingteam": "RVT 03B Red",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 13501,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "DBSC 4",
+			"hometeam": "OFA 08B Black",
+			"visitingteam": "BUSC Venom",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Cascade",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 10265,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC Blue Storm 08G",
+			"visitingteam": "UUSC 08G",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15625,
+			"gametime": "1899-12-30T21:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 08B White",
+			"visitingteam": "UUSC 08B",
+			"undefined": "1:00 PM"
+		},
+		{
+			"bracket": "Girls Siskiyou",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 10266,
+			"gametime": "1899-12-30T21:30:00.000Z",
+			"gamefield": "North Mountain Park 3",
+			"hometeam": "ASC 09G",
+			"visitingteam": "RVT 09G White",
+			"undefined": "1:30 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 17165,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Fir Grove 3",
+			"hometeam": "UUSC 11G",
+			"visitingteam": "RVT 10G White",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Gold",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 14356,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Steen Sports Park 2",
+			"hometeam": "BUSC Billy Goats 1",
+			"visitingteam": "RVT B Stewart",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 14405,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "Steen Sports Park 3",
+			"hometeam": "BUSC Real Barca",
+			"visitingteam": "OFA 05B GP",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Siskiyou",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15626,
+			"gametime": "1899-12-30T22:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 09B White",
+			"visitingteam": "ASC Thunder",
+			"undefined": "2:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 10267,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "North Mountain Park 1",
+			"hometeam": "ASC U14B",
+			"visitingteam": "RVT 07B Red",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Girls HS Silver",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 14403,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "Steen Sports Park 5",
+			"hometeam": "BUSC Green",
+			"visitingteam": "NSS Shockers",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys Cascade",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15621,
+			"gametime": "1899-12-30T23:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT 07B White",
+			"visitingteam": "SOSA Barcelona",
+			"undefined": "3:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 13502,
+			"gametime": "1899-12-30T23:30:00.000Z",
+			"gamefield": "DBSC 3",
+			"hometeam": "OFA 07B Black",
+			"visitingteam": "RVT 05/06B White",
+			"undefined": "3:30 PM"
+		},
+		{
+			"bracket": "Girls Pacific Crest",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15628,
+			"gametime": "1899-12-31T00:00:00.000Z",
+			"gamefield": "US Cellular 11A",
+			"hometeam": "RVT 10G Red",
+			"visitingteam": "ASC TNT",
+			"undefined": "4:00 PM"
+		},
+		{
+			"bracket": "Girls HS Gold",
+			"gamedate": "Sun 11/15",
+			"gamenumber": 15629,
+			"gametime": "1899-12-31T01:00:00.000Z",
+			"gamefield": "US Cellular 13",
+			"hometeam": "RVT U19G",
+			"visitingteam": "OFA 02G GP",
+			"undefined": "5:00 PM"
+		},
+		{
+			"bracket": "Boys HS Silver",
+			"gamedate": "Wed 11/18",
+			"gamenumber": 15630,
+			"gametime": "1899-12-31T02:00:00.000Z",
+			"gamefield": "US Cellular 10",
+			"hometeam": "RVT 05/06B White",
+			"visitingteam": "OFA 07B Black",
+			"undefined": "6:00 PM"
+		}
+	]
+}
