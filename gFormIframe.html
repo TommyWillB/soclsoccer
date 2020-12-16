@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base href="https://script.google.com/"  target="_top">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  </head>
+  <body onload="prefilliFrameForm()">
+	<iframe src="https://script.google.com/macros/s/AKfycby8N-jBqm4q3apG2pGvJGm7GjHnMFqI7S28K09k-0_Ixv0vrjegXK6Z6Q/exec" width="95%" height="1000px" title="gForm" name="gForm" id="gForm"></iframe>
+
+
+    <script>
+		function prefilliFrameForm() {
+			// document.getElementById('Name').value = getName;
+		
+			var gFormIframe = document.getElementById("gForm");
+			console.error("gFormIframe: %o", gFormIframe)
+		
+		
+			var gFormIframeDocument = (gFormIframe.contentWindow || gFormIframe.contentDocument);
+			console.error("gFormIframeDocument: %o", gFormIframeDocument)
+		
+		
+			// if (MyIFrameDoc.document) MyIFrameDoc = MyIFrameDoc.document;
+			// MyIFrameDoc.getElementById("myform").submit();
+		
+		
+		}    
+
+    </script>
+
+  </body>
+</html>
