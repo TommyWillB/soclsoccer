@@ -8,19 +8,21 @@
   </head>
   <body onload="prefilliFrameForm()">
 	Tom wuz here:
-	<iframe src="https://script.google.com/macros/s/AKfycby8N-jBqm4q3apG2pGvJGm7GjHnMFqI7S28K09k-0_Ixv0vrjegXK6Z6Q/exec" width="95%" height="1000px" title="gForm" name="gForm" id="gForm"></iframe>
+	<iframe src="https://script.google.com/macros/s/AKfycby8N-jBqm4q3apG2pGvJGm7GjHnMFqI7S28K09k-0_Ixv0vrjegXK6Z6Q/exec" width="95%" height="500px" title="gForm" name="gForm" id="gForm"></iframe>
 
 
     <script>
+    	console.error("Tom wuz here");
+    
 		function prefilliFrameForm() {
 			// document.getElementById('Name').value = getName;
 		
 			var gFormIframe = document.getElementById("gForm");
-			console.error("gFormIframe: %o", gFormIframe)
+			console.error("gFormIframe: %o", gFormIframe);
 		
 		
 			var gFormIframeDocument = (gFormIframe.contentWindow || gFormIframe.contentDocument);
-			console.error("gFormIframeDocument: %o", gFormIframeDocument)
+			console.error("gFormIframeDocument: %o", gFormIframeDocument);
 		
 		
 			// if (MyIFrameDoc.document) MyIFrameDoc = MyIFrameDoc.document;
