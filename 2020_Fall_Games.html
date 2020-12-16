@@ -530,18 +530,22 @@
 	</table>	
 	-->
     
+    <!--
     <h2>Fall Games Data Source (Input)</h2>
+    -->
     
 		
 	Default JSON data source:
 	<br/>	
 	(<a id="sourceJSONLink" href="https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020_Fall_Games.json" target="github">https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020-Fall-Girls-Cascade-Schedule.json</a>)
 
+	<!--
 	<br/>	
 	<br/>
 	...or you can enter URL of a different JSON data source:
 	<br/>	
-	<textarea id="userSourceJSONurl" cols="130" rows="2" style="font-size:12px;line-height: 90%;background-color: #eeeeee;"></textarea>	
+	-->
+	<textarea id="userSourceJSONurl" cols="130" rows="2" style="font-size:12px;line-height: 90%;background-color: #eeeeee;display:none;"></textarea>	
 	
     <!--
     <br/>
@@ -552,11 +556,13 @@
 	<textarea id="sourceJSONURL" cols="130" rows="2" style="display:none;">(will be populated when you do query)</textarea>	
 	
 	
+	<!--
 	<br/>
 	<br/>
 	This is the data that is being used:
 	<br/>	
-	<textarea id="sourceJSON" cols="130" rows="15" style="font-size:10px;line-height: 90%;background-color: #ffeedd;">(will be populated when you do query)</textarea>
+	-->
+	<textarea id="sourceJSON" cols="130" rows="15" style="font-size:10px;line-height: 90%;background-color: #ffeedd;display:none;">(will be populated when you do query)</textarea>
 	
 
 	
@@ -565,11 +571,13 @@
 
     <h3>JSONata "Query" Expression</h3>
     
+<!--
     <table border="0">
 		<tr>
 			<td valign="top" >
+-->
 
-				<textarea id="JSONataQuery" cols="60" rows="30" style="background-color: #ddeeff;">{"Games": Games[game_date ~> /Sat/i].
+				<textarea id="JSONataQuery" cols="200" rows="20" style="background-color: #ddeeff;">{"Games": Games[game_date ~> /Sat/i].
     (
         { 
             
@@ -587,6 +595,7 @@
     ) 
 }</textarea>
 
+<!--
 			</td>
 			<td >&nbsp;&nbsp;</td>
 			<td>
@@ -594,6 +603,7 @@
 
 			Query syntax should work just like it does here:
 				<a href="https://try.jsonata.org/I6GYSxu1E" title="https://try.jsonata.org/I6GYSxu1E">https://try.jsonata.org/I6GYSxu1E</a>
+-->
 	
 				<!-- <p id="gameblock">List of games</p>-->
 	
@@ -606,7 +616,7 @@
 				<!-- <textarea id="queryJSON" cols="100" rows="20">{ "game_number": "14350" }</textarea> -->
 				<!-- <textarea id="queryJSON" cols="100" rows="20">(Games[bracket = "Girls Cascade"];Games[home_team ~> /Blue/i])</textarea> -->
 				<!-- <textarea id="queryJSON" cols="100" rows="20">{Games[game_number = "13437"] }</textarea> -->
-				
+<!--				
 				Examples:
 				<ol>
 					<li style="font-size:xx-small;font-family: monospace;">
@@ -663,20 +673,20 @@
 		</tr>
 	</table>
 
-    
+-->    
     
     
     
 
 	
 	
-	<p><button onclick="gameQuery()">Execute query... See Result below</button></p>
+	<p><button onclick="gameQuery()">Execute query... Update Result below</button></p>
 
 
 	<br />
 	<br />
     <h3>JSONata "Query" Result (Output)</h3>
-	<textarea id="JSONataResult" cols="200" rows="15" style="font-size:10px;line-height: 90%;background-color: #eeffee;"></textarea>
+	<textarea id="JSONataResult" cols="200" rows="15" style="font-size:10px;line-height: 90%;background-color: #eeffee;display:none;"></textarea>
 	
 		
 	
