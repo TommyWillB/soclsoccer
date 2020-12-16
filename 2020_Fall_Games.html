@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html>
+<title>Read JSON</title>
+
+
+<!--
+<script src="json2.js"></script>
+<script src="cycle.js"></script>
+-->
+
+<script src="https://cdn.jsdelivr.net/npm/jsonata/jsonata.min.js"></script>
+    
+<script>
+
+	var gameTableRowCount = 0;
+	var previousGameTableRowCount = 0;
+	var gameResultsList;
+	var gameReultsCount = 0;
+	
+
+
+/*
+
+	// Mappings JSON field names to the Google Forms prefill URL names
+	
+	https://docs.google.com/forms/d/1m2FRubXv5usjWJ1XQRXgQPMbTlqgTIibE5hgNuaKHBo/prefill
+		?entry.334319894=Toms+Bracket
+		&entry.1231525526=Toms+Field+Name
+		&entry.1077501919=Game+99999
+		&entry.2018290950=Toms+Home+Team
+		&entry.501320607=Toms+Visiting+Team
+		&entry.1936647107=Sat%2010/7
+		&entry.576276731=1pm
+	
+	
+	var gFormBracket = "entry.334319894";
+	var gFormGame_number = "entry.1077501919";
+	var gFormGame_date = "entry.1936647107";
+	var gFormGame_time_string = "entry.576276731";
+	var gFormGame_field = "entry.1231525526";
+	var gFormHome_team = "entry.2018290950";
+	var gFormVisiting_team = "entry.501320607"; 
+*/
+            
+            
+            
+	// var gamesJSONDummyobj;
+	
+	
+	/*
+		-----------------------------------------------------------------------
+		Remote JSON XMLHttpRequest FUNCTION
+		-----------------------------------------------------------------------	
+	*/
+	
+	var getJSON = function(url, callback) {
+
+		var xhr = new XMLHttpRequest();
+		xhr.open('GET', url, true);
+		xhr.responseType = 'json';
+	
+		xhr.onload = function() {
+	
+			var status = xhr.status;
+		
+			if (status == 200) {
+				callback(null, xhr.response);
+			} else {
+				callback(status);
+			}
+		};
+	
+		xhr.send();
+	};
+
+
+	
+	/*
+		-----------------------------------------------------------------------
+		gameQuery FUNCTION
+		-----------------------------------------------------------------------	
+	*/	
+	
+	function gameQuery() {
+	
+	
+	
+		/*
+		-----------------------------------------------------------------------
+		Figure out the URL of our source JSON file
+		-----------------------------------------------------------------------	
+		*/
+		
+		
+		/// sourceJSONLink
+		
+		
+		userSourceJSONurl = document.getElementById('userSourceJSONurl').value;
+		// console.error("userSourceJSONurl: %s", userSourceJSONurl)
+		
+		sourceJSONURL = document.getElementById('sourceJSONURL').value;
+		// console.error("sourceJSONURL: %s", sourceJSONURL)
+		
+		if (userSourceJSONurl) {			
+			// use user-provided URL
+			document.getElementById('sourceJSONURL').value = userSourceJSONurl;	
+			
+			// set sourceJSONURL
+			sourceJSONURL = document.getElementById('userSourceJSONurl').value;
+		} else {
+			// use default URL
+			// also update this in the A HREF on the page (id=sourceJSONLink)
+			SourceJSONdefaultURL = "https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020_Fall_Games.json";
+			
+			// set sourceJSONURL
+			sourceJSONURL = SourceJSONdefaultURL;
+		
+			document.getElementById('userSourceJSONurl').value = sourceJSONURL;	
+			document.getElementById('sourceJSONURL').value = sourceJSONURL;	
+		}
+		
+		
+		
+		// update clickable link text and url
+		document.getElementById('sourceJSONLink').innerHTML = sourceJSONURL;
+		document.getElementById('sourceJSONLink').setAttribute('href',sourceJSONURL);
+			
+		
+
+      	
+	
+		/*
+		-----------------------------------------------------------------------
+		Fetch Remote JSON Data for gameList
+		-----------------------------------------------------------------------	
+		*/
+		
+		
+	
+		getJSON(sourceJSONURL,  function(gameErr, gamesJSON) {
+		
+			if (gameErr != null) {
+				// usually a 404 Page Not Found for the JSON URL
+				
+				console.error(gameErr);
+			} else {    
+				// console.error("199 gamesJSON: %o", gamesJSONString)
+   
+   
+				// turn Dummy obj to string
+				gamesJSONString = JSON.stringify(gamesJSON, null, 2); 
+
+   
+				// return {gameList, gamelistJSONstring};
+
+				document.getElementById('sourceJSON').value = gamesJSONString;
+
+
+
+				/* closing getJSON() ELSE way at bottom  */
+	
+	
+		
+		
+		// console.error("228 gamesJSONString: %c%o", "color: black; background-color:#dddddd;padding: 2px", gamesJSONString)
+		// console.error("229 gamesJSON: %c%o", "color: black; background-color:#dddddd;padding: 2px", gamesJSON)
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		/* 
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+			Get JSONata query expression from textarea id="JSONataQuery"
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+		*/
+		var JSONataExpression = document.getElementById('JSONataQuery').value;		
+		// console.error("209 JSONataExpression: %c%s", "color: black; background-color:#dddddd;padding: 2px", JSONataExpression)
+		
+		// ... or JS object?
+		// var JSONataExpressionObj = JSON.parse(document.getElementById('JSONataQuery').value);		
+		// console.error("JSONataExpressionObj: %o", JSONataExpressionObj)
+
+		
+		
+		
+		/* 
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+			
+			jsonata SYNTAX:
+				jsonata(QUERY EXPRESION).evaluate(JSON DATA TO QUERY AGAINST);
+				
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+		*/
+		
+		
+		// var gameResults = jsonata('"game_number, " & game_number & bracket & home_team').evaluate(gamesJSON);
+		
+		// get entire Games object not Games.<field>
+		// even better to loop over $[0] to get the most outside array
+		// https://docs.jsonata.org/construction
+		
+		
+		// ===== THIS WAS THE LAST WORKING ONE ====
+		// var gameObject = jsonata("$[0]").evaluate(gamesJSON);
+		
+		
+		// $each(Address, function($v, $k) {$k & ": " & $v})
+		// var gameResults = jsonata('$each(Games.game_number, function($v, $k) {$k & ": " & $v} & Games.bracket & Games.home_team').evaluate(gamesJSON);
+		// var gameResults = jsonata('"bracket" & bracket & game_number & game_date & game_time_string & game_field & home_team; & home_score & visiting_team & visiting_score').evaluate(gamesJSON);
+		
+		
+		
+		
+		// ====================== DO JSONATA QUERY ======================
+		// returns object
+		var gameResults = jsonata(JSONataExpression).evaluate(gamesJSON);			
+		// console.error("292 JSONata query Result: %o", gameResults)
+		
+		
+		
+		/* 
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+			output to HTML TEXTAREA JSONataResult
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+		*/
+		
+		document.getElementById('JSONataResult').value = JSON.stringify(gameResults, null, 3);
+		
+		
+				
+				
+						
+		// Lets figure out if we are in the right {object [array]} to loop over
+		
+		
+		// var gameResults = gameObject.Games;
+		
+		
+		
+		/* 
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+			If less than two results are returned, it is returned as a object list
+			
+			If two or more results are returned, they are returned as an array of oject lists
+			
+				So... We need to first figure out if we were returned an object-list or array
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+		*/
+		
+		function isEmpty(obj) {
+		  for(var prop in obj) {
+			if(obj.hasOwnProperty(prop)) {
+			  return false;
+			}
+		  }
+
+		  return JSON.stringify(obj) === JSON.stringify({});
+		}
+
+		if(Array.isArray(gameResults.Games)) {
+		
+				//true = Array
+				// console.error("289 Array.isArray(gameResults.Games) = True and it's length is %d", gameResults.Games.length)	
+				
+				// object.Games
+				gameResultsList = gameResults.Games;		
+				// array length		
+				gameReultsCount = gameResultsList.length;
+			
+			} else if (isEmpty(gameResults)) {
+				// function from https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object
+				gameReultsCount = 0;
+				gameResultsList = null;
+			
+			} else {
+			
+				// false = object list
+				// console.error("299 Array.isArray(gameResults.Games) = False")	
+				
+				// object
+				gameResultsList = [];	
+				gameResultsList = gameResults;		
+				// no array, so 1 (Could also be zero?)		
+				gameReultsCount = 1;
+			
+			}
+		
+		
+		// console.error("310 gameReultsCount: %d", gameReultsCount);	
+		// console.error("311 gameResultsList: %o", gameResultsList);
+		
+		/* 
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+			Okay... so I can probably do some object vs. array test to determine
+			if this query starts with an {object} or [array] 
+			... as a means to determine what level to loop over
+			
+			# test for array
+			Array.isArray(gameResults)
+			
+			# test for object "instance"
+			#    (I still need to learn more about object "instances" and "constructors")
+			gameResults instanceof Object
+			
+			i.e.
+				Games[game_number ~> /13437/i]
+				[Games[game_number ~> /13437/i]]
+				{"Games": [Games[game_number ~> /13437/i]]}
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+		*/	
+
+
+
+		
+		
+		/* 
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+			Loop over the result (gameResults) from JSONata
+			- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 	
+		*/	
+			
+
+			
+		// Before we update the table, let's cleanup the previous update
+		//   i.e. delete all the rows besides the header
+					
+		gameTableRowCount = document.getElementById("JSONataResultTable").rows.length;
+		// console.error("349 gameTableRowCount: %d", gameTableRowCount)		
+		
+		if(gameTableRowCount>1) {
+		
+			// console.error("353 gameTableRowCount (%d) is > 1", gameTableRowCount);
+			
+			
+			gameTableRowsToDelete = gameTableRowCount-1;
+			// console.error("357 gameTableRowsToDelete: %d", gameTableRowsToDelete);
+			
+			for (i = gameTableRowsToDelete; i > 0; i--) {
+				// console.error("360 i: %d", i);
+				
+				var JSONataResultTable = document.getElementById("JSONataResultTable");
+				JSONataResultTable.deleteRow(i);
+				// console.error("363 deleteRow(i) = %d", i);
+			}
+			
+			
+			
+		} else {		
+			// console.error("368 gameTableRowCount (%d) is NOT > 1", gameTableRowCount);
+		}
+		
+
+
+		// gameTableRowCount = document.getElementById("JSONataResultTable").rows.length;
+		// console.error("376 gameTableRowCount: %d", gameTableRowCount)	
+		
+		// console.error("378 gameReultsCount: %d", gameReultsCount);	
+		
+		
+		if (gameReultsCount == 0) {
+		
+			// no results
+			// console.error("413 gameReultsCount = 0 (%d)", gameReultsCount);
+			
+			var JSONataResultTable = document.getElementById("JSONataResultTable");
+			
+			// Create an empty <tr> element and add it to the 1st position of the table:
+			var gameTwoRow = JSONataResultTable.insertRow(1);		
+			
+
+			// Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:
+			var gameTwoCell1 = gameTwoRow.insertCell(0);			
+			gameTwoCell1.colSpan = 9;					
+			gameTwoCell1.bgColor = "#ffdddd";			
+			
+			// Add some text to the new cells: gameResults[i]
+			gameTwoCell1.innerHTML = "no results";
+		}
+		
+		
+		
+		
+		// loop over games array and output HTML Table TR's
+		for (i = 0; i < gameReultsCount; i++) {
+		
+			// console.error("383 I'm looping over the gameReultsCount (%d)", gameReultsCount);
+			
+			var JSONataResultTable = document.getElementById("JSONataResultTable");
+	  
+	  
+			
+			// Create an empty <tr> element and add it to the 1st position of the table:
+			var gameTwoRow = JSONataResultTable.insertRow(i+1);		
+			// console.error("391 JSONataResultTable.insertRow(i+1) (%d)", i+1);
+
+			// Insert new cells (<td> elements) at the 1st and 2nd position of the "new" <tr> element:
+			var gameTwoCell1 = gameTwoRow.insertCell(0);
+			var gameTwoCell2 = gameTwoRow.insertCell(1);
+			var gameTwoCell3 = gameTwoRow.insertCell(2);
+			var gameTwoCell4 = gameTwoRow.insertCell(3);
+			var gameTwoCell5 = gameTwoRow.insertCell(4);
+			var gameTwoCell6 = gameTwoRow.insertCell(5);
+			var gameTwoCell7 = gameTwoRow.insertCell(6);
+			var gameTwoCell8 = gameTwoRow.insertCell(7);
+			var gameTwoCell9 = gameTwoRow.insertCell(8);
+			var gameTwoCell10 = gameTwoRow.insertCell(9);
+			var gameTwoCell10 = gameTwoRow.insertCell(10);
+			
+			
+			// white-space: nowrap;
+			// object.style.whiteSpace="normal|nowrap|pre|initial|inherit"
+			
+			gameTwoCell2.style.whiteSpace="nowrap";
+			gameTwoCell10.style.whiteSpace="nowrap";
+			
+			
+			if (gameReultsCount == 1) {
+			
+				// 1 result
+				// console.error("425 gameReultsCount = 1 (%d)", gameReultsCount);
+
+				// Add some text to the new cells: gameResults[i]
+				gameTwoCell1.innerHTML = 1+1;
+				gameTwoCell2.innerHTML = gameResults.Games.bracket;
+				gameTwoCell3.innerHTML = gameResults.Games.game_number;
+				gameTwoCell4.innerHTML = gameResults.Games.game_date;
+				gameTwoCell5.innerHTML = gameResults.Games.game_time_string;
+				gameTwoCell6.innerHTML = gameResults.Games.game_field;
+				gameTwoCell7.innerHTML = gameResults.Games.home_team;
+				gameTwoCell8.innerHTML = gameResults.Games.home_score;
+				gameTwoCell9.innerHTML = gameResults.Games.visiting_team;
+				gameTwoCell10.innerHTML = gameResults.Games.visiting_score;
+				gameTwoCell10.innerHTML = gameResults.Games.report_game_score;
+			
+			} else {
+			
+				// multiple results
+				// console.error("433 gameReultsCount > 1 (%d)", gameReultsCount);
+
+				// Add some text to the new cells: gameResults[i]
+				gameTwoCell1.innerHTML = i+1;
+				gameTwoCell2.innerHTML = gameResultsList[i].bracket;
+				gameTwoCell3.innerHTML = gameResultsList[i].game_number;
+				gameTwoCell4.innerHTML = gameResultsList[i].game_date;
+				gameTwoCell5.innerHTML = gameResultsList[i].game_time_string;
+				gameTwoCell6.innerHTML = gameResultsList[i].game_field;
+				gameTwoCell7.innerHTML = gameResultsList[i].home_team;
+				gameTwoCell8.innerHTML = gameResultsList[i].home_score;
+				gameTwoCell9.innerHTML = gameResultsList[i].visiting_team;
+				gameTwoCell10.innerHTML = gameResultsList[i].visiting_score;
+				gameTwoCell10.innerHTML = gameResultsList[i].report_game_score;
+			
+			}
+			
+			
+			
+		}
+
+			}
+		});
+	
+			
+			
+	}
+	
+
+      
+</script>
+        
+
+    
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- =======================================================  BODY ======================================================= -->
+<!-- =======================================================  BODY ======================================================= -->
+<!-- =======================================================  BODY ======================================================= -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body onload="gameQuery()">
+    <h1>SOCL 2020 Fall Games (JSONata query)</h1>
+	
+	
+	<!--
+	<table border="1" id="gameTable">
+		<tr>
+			<th>#</th>
+			<th>bracket</th>
+			<th>game_number</th>
+			<th>game_date</th>
+			<th>game_time_string</th>
+			<th>game_field</th>
+			<th>home_team</th>
+			<th>home_score</th>
+			<th>visiting_team</th>
+			<th>visiting_score</th>
+			<th>report_game_score</th>
+		</tr>
+	</table>	
+	-->
+    
+    <h2>Fall Games Data Source (Input)</h2>
+    
+		
+	Default JSON data source:
+	<br/>	
+	(<a id="sourceJSONLink" href="https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020_Fall_Games.json" target="github">https://raw.githubusercontent.com/TommyWillB/soclsoccer/main/2020-Fall-Girls-Cascade-Schedule.json</a>)
+
+	<br/>	
+	<br/>
+	...or you can enter URL of a different JSON data source:
+	<br/>	
+	<textarea id="userSourceJSONurl" cols="130" rows="2" style="font-size:12px;line-height: 90%;background-color: #eeeeee;"></textarea>	
+	
+    <!--
+    <br/>
+	<br/>	
+	1b) this is the URL of the JSON being used
+	<br/>	
+	-->
+	<textarea id="sourceJSONURL" cols="130" rows="2" style="display:none;">(will be populated when you do query)</textarea>	
+	
+	
+	<br/>
+	<br/>
+	This is the data that is being used:
+	<br/>	
+	<textarea id="sourceJSON" cols="130" rows="15" style="font-size:10px;line-height: 90%;background-color: #ffeedd;">(will be populated when you do query)</textarea>
+	
+
+	
+			
+
+
+    <h3>JSONata "Query" Expression</h3>
+    
+    <table border="0">
+		<tr>
+			<td valign="top" >
+
+				<textarea id="JSONataQuery" cols="60" rows="30" style="background-color: #ddeeff;">{"Games": Games[game_date ~> /Sat/i].
+    (
+        { 
+            
+            "bracket": bracket, 
+            "game_number": game_number, 
+            "game_date": game_date, 
+            "game_time_string": game_time_string, 
+            "game_field": game_field, 
+            "home_team": home_team, 
+            "home_score": "",
+            "visiting_team": visiting_team,
+            "visiting_score": "",
+            "report_game_score" : '<a target="soclGameReport" href="https://docs.google.com/forms/d/1m2FRubXv5usjWJ1XQRXgQPMbTlqgTIibE5hgNuaKHBo/prefill?entry.334319894=' & $encodeUrlComponent(bracket) &'&entry.1077501919=' & game_number & '&entry.1936647107=' & $encodeUrlComponent(game_date) & '&entry.576276731=' & $encodeUrlComponent(game_time_string) & '&entry.1231525526=' & $encodeUrlComponent(game_field) & '&entry.2018290950=' & $encodeUrlComponent(home_team) & '&entry.501320607=' & $encodeUrlComponent(visiting_team) & '">Report Game Scores</a>'
+        }
+    ) 
+}</textarea>
+
+			</td>
+			<td >&nbsp;&nbsp;</td>
+			<td>
+
+
+			Query syntax should work just like it does here:
+				<a href="https://try.jsonata.org/I6GYSxu1E" title="https://try.jsonata.org/I6GYSxu1E">https://try.jsonata.org/I6GYSxu1E</a>
+	
+				<!-- <p id="gameblock">List of games</p>-->
+	
+				<!-- <textarea id="json" cols="100" rows="20">{ "name": "Wilbur" }</textarea>-->
+	
+	
+				<!-- Query syntax at: https://try.jsonata.org/I6GYSxu1E -->
+				<!-- (Games[bracket = "Girls Cascade"];Games[home_team ~> /Blue/i]) -->
+	
+				<!-- <textarea id="queryJSON" cols="100" rows="20">{ "game_number": "14350" }</textarea> -->
+				<!-- <textarea id="queryJSON" cols="100" rows="20">(Games[bracket = "Girls Cascade"];Games[home_team ~> /Blue/i])</textarea> -->
+				<!-- <textarea id="queryJSON" cols="100" rows="20">{Games[game_number = "13437"] }</textarea> -->
+				
+				Examples:
+				<ol>
+					<li style="font-size:xx-small;font-family: monospace;">
+						Games[game_number ~> /13437/i]
+					</li>
+					<li style="font-size:xx-small;font-family: monospace;">
+						[Games[game_number ~> /13437/i]]
+					</li>		
+					<li style="font-size:xx-small;font-family: monospace;color:green;">
+						{"Games": [Games]}</li>
+					<li style="font-size:xx-small;font-family: monospace;color:green;">
+						{"Games": [Games[game_number ~> /13437/i]]}
+					</li>
+					<li style="font-size:xx-small;font-family: monospace;color:green;">
+						{"Games": [Games[bracket = "Girls Cascade"]]}
+					</li>
+					<li style="font-size:xx-small;font-family: monospace;color:green;">
+						{"Games": [Games[game_date ~> /Sat/i]]}
+					</li>
+					<li style="font-size:xx-small;font-family: monospace;color:green;white-space: pre;">{"Games": Games[bracket "Girls Cascade"].
+    (
+        { 
+            "bracket": bracket, 
+            "game_number": game_number, 
+            "game_date": game_date, 
+            "game_time_string": game_time_string, 
+            "game_field": game_field, 
+            "home_team": home_team, 
+            "visiting_team": visiting_team 
+                                             &lt;-- notice I omitted the score fields
+        }
+    ) 
+}</li>
+					<li style="font-size:xx-small;font-family: monospace;color:green;white-space: pre;">{"Games": Games[visiting_team ~> /08G/i].
+    (
+        { 
+            "bracket": bracket, 
+            "game_number": game_number, 
+            "game_date": game_date, 
+            "game_time_string": game_time_string, 
+            "game_field": game_field, 
+            "home_team": home_team, 
+            "visiting_team": visiting_team 
+                                             &lt;-- notice I omitted the score fields
+        }
+    ) 
+}</li>
+				</ol>
+				<p style="font-size:xx-small;font-family: monospace;color:green;">* use these to generate the correct JSON structure expected by HTML TABLE below</p>
+
+
+
+			</td>
+		</tr>
+	</table>
+
+    
+    
+    
+    
+
+	
+	
+	<p><button onclick="gameQuery()">Execute query... See Result below</button></p>
+
+
+	<br />
+	<br />
+    <h3>JSONata "Query" Result (Output)</h3>
+	<textarea id="JSONataResult" cols="200" rows="15" style="font-size:10px;line-height: 90%;background-color: #eeffee;"></textarea>
+	
+		
+	
+
+
+
+
+
+	<table border="1" id="JSONataResultTable">
+		<tr>
+			<th>#</th>
+			<th>bracket</th>
+			<th>game_number</th>
+			<th>game_date</th>
+			<th>game_time_string</th>
+			<th>game_field</th>
+			<th>home_team</th>
+			<th>home_score</th>
+			<th>visiting_team</th>
+			<th>visiting_score</th>
+			<th>report_game_score</th>
+		</tr>
+	</table>
+
+
+    
+
+
+	
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+
+
+
+
+    
+</body>
+</html>
